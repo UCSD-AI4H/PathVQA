@@ -1,0 +1,1261 @@
+							
+13	Schematic diagram of the structure of an epithelial cell.						
+14	Diagrammatic structure of portion of helical structure of DNA molecule.						
+15	diagrammatic representation of the intercellular junctions.						
+16	the cell cycle in mitosis. Premitotic phases are the G1, S and G2 phase while M (mitotic) phase is accomplished in 4 sequential stages: prophase, metaphase, anaphase, and telophase. on completion of cell division, two daughter cells are formed which may continue to remain in the cell cycle or go out of it in resting phase (interphase), the G0 phase. (CDK = cyclin dependent kinase).		
+				
+17	sequence of events in the pathogenesis of reversible and irreversible cell injury caused by hypoxia/ischaemia. 			
+			
+18	ultrastructural changes during cell injury due to hypoxia-ischaemia.						
+19	mechanisms of generation of free radicals by four electron step reduction of oxygen. (SOD = superoxide dismutase;GSH = glutathione peroxidase).						
+20	mechanism of cell death by hydroxyl radical, the mostreactive oxygen species.						
+21	mechanisms of cell injury by ionising radiation.						
+22	 hydropic change kidney. the tubular epithelial cells are distended with cytoplasmic vacuoles while the interstitial vasculature  is compressed. the nuclei of affected tubules are pale. 			
+			
+23	 hydropic change kidney. the tubular epithelial cells are distended with cytoplasmic vacuoles while the interstitial vasculature  is compressed. the nuclei of affected tubules are pale. 		
+				
+24	intracellular hyaline as russell's bodies in the plasmacells. the cytoplasm shows pink homogeneous globular material due to accumulated immunoglobulins.						
+25	epithelial mucin. mucinous cystadenoma of the ovary showing intracytoplasmic mucinous material in the epithelial cells lining the cyst.						
+26	extracellular hyaline deposit in leiomyoma uterus. the centres of whorls of smooth muscle and connective tissue show pink homogeneous hyaline material (connective tissue hyaline).			
+			
+27	connective tissue mucin (myxoid change) inneurofibroma.						
+28	lipid metabolism in the pathogenesis of fatty liver. defects in any of the six numbered steps (corresponding to the description in the text) can produce fatty liver by different etiologic agents. 	
+					
+29	fatty liver. sectioned slice of the liver shows pale yellow parenchyma with rounded borders. 	
+					
+30	fatty liver. many of the hepatocytes are distended with large fat vacuoles pushing the nuclei to the periphery (macrovesicles), while others show multiple small vacuoles in the cytoplasm (microvesicles).	
+					
+31	fatty liver. many of the hepatocytes are distended with large fat vacuoles pushing the nuclei to the periphery (macrovesicles), while others show multiple small vacuoles in the cytoplasm (microvesicles).	
+					
+32	compound naevus showing clusters of benign naevus cells in the dermis as well as in lower epidermis. these cells contain coarse, granular, brown-black melanin pigment. 						
+33	haemosiderin pigment in the cytoplasm of hepatocytes seen as prussian blue granules.						
+
+34	compound naevus showing clusters of benign naevus cells in the dermis as well as in lower epidermis. these cells contain coarse, granular, brown-black melanin pigment.  						
+36	brown atrophy of the heart. the lipofuscin pigment granules are seen in the cytoplasm of the myocardial fibres, especially around the nuclei.						
+37	brown atrophy of the heart. the lipofuscin pigment granules are seen in the cytoplasm of the myocardial fibres, especially around the nuclei.						
+38	anthracosis lung. there is presence of abundant coarse black carbon pigment in the septal walls and around the bronchiole. 
+ 						
+39	necrosis and apoptosis. A, cell necrosis is identified by homogeneous, eosinophilic cytoplasm and nuclear changes of pyknosis, karyolysis, and karyorrhexis. B, Apoptosis consists of condensation of nuclear chromatin and fragmentation of the cell into  membrane-bound apoptotic bodies which are engulfed by macrophages.						
+40	anthracosis lung. there is presence of abundant coarse black carbon pigment in the septal walls and around the bronchiole. 
+ 						
+41	coagulative necrosis in infarct kidney. the affected area on right shows cells with intensely eosinophilic cytoplasm of tubular cells but the outlines of tubules are still maintained. the nuclei show granular debris. the interface between viable and non-viable  area shows non-specific chronic inflammation and proliferating vessels.						
+42	coagulative necrosis in infarct kidney. the affected area on right shows cells with intensely eosinophilic cytoplasm of tubular  cells but the outlines of tubules are still maintained. the nuclei show granular debris. the interface between viable and non-viable  area shows non-specific chronic inflammation and proliferating vessels.						
+43	Caseous necrosis lymph node. There is eosinophilic, amorphous, granular material, while the periphery shows granulomatous inflammation.						
+44	liquefactive necrosis brain. the necrosed area on right side of the field shows a cystic space containing cell debris, while the surrounding zone shows granulation tissue and gliosis. 			
+			
+45	liquefactive necrosis brain. the necrosed area on right side of the field shows a cystic space containing cell debris, while the surrounding zone shows granulation tissue and gliosis. 		
+				
+46	Caseous necrosis lymph node. There is eosinophilic, amorphous, granular material, while the periphery shows granulomatous inflammation.						
+47	Fat necrosis in acute pancreatitis. There is cloudy appearance of adipocytes, coarse basophilic granular debris while the periphery shows a few mixed inflammatory cells.				
+		
+48	apoptotic bodies in the layer of squamous mucosa(shown by arrows). the dead cell seen in singles, is shrunken, the nucleus  has clumped chromatin, while the cytoplasms in intensely eosinophilic. there is no inflammation, unlike necrosis.						
+49	fibrinoid necrosis in autoimmune vasculitis. the vesselwall shows brightly pink amorphous material and nuclear fragments of necrosed neutrophils.						
+50	molecular mechanism of apoptosis.		
+				
+51	dry gangrene of the foot. the gangrenous area is dry, shrunken and dark and is separated from the viable tissue by clear line of separation. 						
+52	dry gangrene of the foot. microscopy shows coagulative necrosis of the skin, muscle and other soft tissue, and thrombsed vessels. 	
+					
+53	dry gangrene of the foot. the gangrenous area is dry, shrunken and dark and is separated from the viable tissue by clear line of separation. 						
+54	wet gangrene of the small bowel. the affected part is soft, swollen and dark. line of demarcation between gangrenous segment and the viable bowel is not clear-cut.						
+55	wet gangrene of the small bowel. the affected part is soft, swollen and dark. line of demarcation between gangrenous segment and the viable bowel is not clear-cut.						
+56	wet gangrene of the small bowel. microscopy shows coagulative necrosis of the affected bowel wall and thrombosed vessels while the junction with normal intestine is indistinct and shows an inflammatory infiltrate. 						
+57	dystrophic calcification in caseous necrosis intuberculous lymph node. in h & e, the deposits are basophilic granular while the periphery shows healed granulomas.						
+58	wet gangrene of the small bowel. microscopy shows coagulative necrosis of the affected bowel wall and thrombosed vessels while the junction with normal intestine is indistinct and shows an inflammatory infiltrate. 						
+59	Dystrophic calcification in degenerated tunica media of muscular artery of uterine myometrium in Mönckeberg's arteriosclerosis.	
+					
+60	metastatic calcification in tubular basement membrane in nephrocalcinosis due to hypercalcaemia.				
+		
+61	adaptive disorders of growth.	
+					
+62	testicular atrophy. the seminiferous tubules show hyalinisation, peritubular fibrosis and diminished number and size of spermatogenic elements. there is prominence of Leydig cells in the interstitium.
+						
+63	cardiac hypertrophy. the myocardial muscle fibres are thick with abundance of eosinophilic cytoplasm. nuclei are also enlarged with irregular outlines.						
+64	pseudocarcinomatous hyperplasia of the skin. the epidermis shows an increase in the number of layers of the squamous epithelium. the intervening dermal soft tissue shows moderate chronic inflammation.						
+
+65	schematic diagram showing sequential changes in uterine cervix from normal epithelium to development of carcinoma in situ. a, normal mucus-secreting endocervical epithelium. b, squamous metaplasia. c, dysplastic change. d, carcinoma in situ.						
+66	squamous metaplasia of the uterine cervix. part of the endocervical mucosa is lined by normal columnar epithelium while foci of metaplastic squamous epithelium are seen at other places. 			
+			
+67	columnar metaplasia oesophagus (barrett's oesophagus). part of the oesophagus which is normally lined by squamous epithelium undergoes metaplastic change to columnar epithelium of intestinal type.	
+					
+68	uterine cervical dysplasia, high grade lesion. it shows increased number of layers of squamous epithelium having marked cytologic atypia including mitoses.						
+69	osseous metaplsia in leiomyoma uterus. the whorls composed of the smooth muscle cells and fibroblasts show osseous metaplasia in the centre. 						
+70	telomeres on chromosomes. in aging, these end components of chromosome are progressively shortened. 
+						
+73	schematic representation of functions of b and t lymphocytes and nk cells. (BCR = B cell receptor, TCR = T cell receptor).
+						
+74	hla system and loci on chromosome 6.	
+					
+75	schematic representation of HIV virion or virus particle. the particle has core containing proteins, p24 and p18, two strands of viral rna, and enzyme reverse transcriptase. bilayer lipid membrane is studded with 2 viral glycoproteins, gp120 and gp41, in the positions shown.						
+
+76	sequence of events in the pathogenesis of HIV infection.						
+77	major pathological lesions and clinical manifestations of HIV/aids.						
+78	schematic representation of pathogenesis of 4 types of immunological tissue injury. 			
+			
+79	Typical LE cell. There are two LE cells having rounded masses of amorphous nuclear material (LE body) which has displaced the lobes of neutrophil to the rim of the cell.
+						
+80	diagrammatic representation of the ultrastructure of amyloid. a, electron microscopy shows major part consisting of amyloid fibrils(95%) randomly oriented, while the minor part is essentially p-component (5%) b, each fibril is further composed of double helix of two pleated sheets in the form of twin filaments  separated by a clear space. p-component has a pentagonal or doughnut profile. c, x-ray crystallography and infra-red spectroscopy shows fibrils having cross--pleated sheet configuration which produces periodicity that gives the characteristic staining properties of amyloid with Congo red and birefringence under polarising microscopy. 						
+81	pathogenesis of two main forms of amyloid deposition (al = amyloid light chain; aa = amyloid-associated protein; gag = glycosaminoglycan; ap = amyloid p component). the sequence on left shows general schematic representation common to both major forms of amyloidogenesis.					
+	
+82	 amyloidosis of kidney. the kidney is small and pale in colour. sectioned surface shows loss of cortico-medullary distinction(arrow) and pale, waxy translucency. 						
+83	Amyloidosis kidney, Congo red stain. A, The amyloid deposits are seen mainly in the glomerular capillary tuft stained red-pink (Congophilia). B, Viewing the same under polarising microscopy, the congophilic areas show apple-green birefringence.						
+84	amyloidosis of kidney. the amyloid deposits are seen mainly in the glomerular capillary tuft. the deposits are also present in peritubular connective tissue producing atrophic tubules and amyloid casts in the tubular lumina, and in the arterial wall producing luminal narrowing. 				
+		
+85	gross patterns of amyloidosis of the spleen.  						
+86	lardaceous amyloidosis of the spleen. the sectioned surface shows presence of plae waxy translucency in a map-like pattern.		
+				
+87	amyloidosis of the liver. a, the deposition is extensive in the space of Disse causing compression and pressure atrophy of hepatocytes. b, congo red staining shows congophilia which under polarising microscopy. c, shows apple-green birefringence. 						
+88	amyloidosis spleen. a, the pink acellular amyloid material is seen in the red pulp causing atrophy of while pulp. b, congo red staining shows congophilia as seen by red-pink colour. c, when viewed under polarising microscopy the corresponding area shows apple-green birefringence. 		
+				
+90	Body fluid compartments (ICF = intracellular fluid compartment; ECF = extracellular fluid compartment).
+						
+92	Diagrammatic representation of pathogenesis of oedema (OP = oncotic pressure; HP = hydrostatic pressure). A, Normal pressure gradients and fluid exchanges between plasma, interstitial space and lymphatics. B, Mechanism of oedema by decreased plasma oncotic pressure and hypoproteinaemia. C, Mechanism of oedema by increased hydrostatic pressure in the capillary. D, Mechanism of lymphoedema. E, Mechanism by tissue factors (increased oncotic pressure of interstitial fluid and lowered tissue tension). F, Mechanism of oedema by increased capillary permeability. 		
+				
+93	mechanisms involved in oedema by sodium and water retention.						
+94	mechanisms involved in the pathogenesis of cardiac oedema.						
+95	mechanisms involved in the pathogenesis of pulmonary oedema. a, normal fluid exchange at the alveolocapillary membrane (capillary endothelium and alveolar epithelium). b, pulmonary oedema via elevated pulmonary hydrostatic pressure. c, pulmonary oedema via increased vascular permeability. 				
+		
+96	pulmonary oedema. the alveolar capillaries are congested. the alveolar spaces as well as interstitium contain eosinophilic, granular, homogeneous and pink proteinaceous oedema fluid along with some rbcs and inflammatory cells. 						
+97	pulmonary oedema. the alveolar capillaries are congested. the alveolar spaces as well as interstitium contain eosinophilic, granular, homogeneous and pink proteinaceous oedema fluid along with some rbcs and inflammatory cells. 						
+98	normal haemodynamic flow of blood in the body. 						
+99	schematic representation of mechanisms involved in chronic venous congestion (cvc) of different organs. 				
+		
+100	cvc lung. the alveolar septa are widened and thickened due to congestion, oedema and mild fibrosis. the alveolar lumina contain heart failure cells (alveolar macrophages containing haemosiderin pigment). 			
+			
+101	cvc lung. the alveolar septa are widened and thickened due to congestion, oedema and mild fibrosis. the alveolar lumina contain heart failure cells (alveolar macrophages containing haemosiderin pigment). 		
+				
+102	CVC liver. The centrilobular zone shows marked degeneration and necrosis of hepatocytes accompanied by haemorrhage while the peripheral zone shows mild fatty change of liver cells.
+		
+103	CVC liver. The centrilobular zone shows marked degeneration and necrosis of hepatocytes accompanied by haemorrhage while the peripheral zone shows mild fatty change of liver cells.
+			
+104	nutmeg liver. the cut surface shows mottled appearance-alternate pattern of dark congestion and pale fatty change.  	
+					
+105	cvc spleen (congestive splenomegaly). sectioned surface shows that the spleen is heavy and enlarged in size. the colour of sectioned surface is grey-tan.						
+106	cvc spleen. the sinuses are dilated and congested. there is increased fibrosis in the red pulp, capsule and the trabeculae. gamna-gandy body is also seen. 						
+107	cvc spleen. the sinuses are dilated and congested. there is increased fibrosis in the red pulp, capsule and the trabeculae. gamna-gandy body is also seen. 						
+108	pathogenesis of circulatory shock.		
+				
+109	response of inflammatory mediators in shock.						
+110	mechanisms and effects of three stages of shock. 						
+111	Sequence of events in thrombogenesis. A, Major factors in pathophysiology of thrombus formation. B, Endothelial injury exposes subendothelium, initiating adherence of platelets and activation of coagulation system. C, Following platelet release reaction, ADP is released which causes further aggregation of platelets. D, Activated coagulation system forms fibrin strands in which are entangled some leucocytes and red cells and a tight meshwork is formed called thrombus.
+					
+112	Sequence of events in thrombogenesis. A, Major factors in pathophysiology of thrombus formation. B, Endothelial injury exposes subendothelium, initiating adherence of platelets and activation of coagulation system. C, Following platelet release reaction, ADP is released which causes further aggregation of platelets. D, Activated coagulation system forms fibrin strands in which are entangled some leucocytes and red cells and a tight meshwork is formed called thrombus.
+						
+113	activation of platelets during haemostatic plug formation and thrombogenesis. a, normal non-activated platelet, having open canalicular system and the cytoplasmic organelles dispersed in the cell. b, early adhesion phase, showing dilatation of the can alicular system with formation of pseudopods and the organelles present in the centre of the cell. c, platelet release reaction, showing release of granules to the exterior. d, platelet aggregation forms a tight plug.	
+					
+114	schematic representation of pathways of coagulation mechanism and fibrinolytic system. 				
+		
+115	alterations in flow of blood.	
+					
+116	thrombus in an artery. the thrombus is adherent to the arterial wall and is seen occluding most of the lumen. it shows lines of zahn composed of granular-looking platelets and fibrin meshwork with entangled red cells and leucocytes.						
+117	thrombus in an artery. the thrombus is adherent to the arterial wall and is seen occluding most of the lumen. it shows lines of zahn composed of granular-looking platelets and fibrin meshwork with entangled red cells and leucocytes.						
+118	fate of thrombus.	
+					
+119	sources of arterial and venous emboli.	
+					
+120	major consequences of pulmonary embolism.						
+121	Haemorrhagic infarct lung. The sectioned surface shows dark tan firm areas (arrow) with base on the pleura.		
+				
+122	haemorrhagic infarct lung. infarcted area shows ghostal veoli filled with blood.						
+123	Common locations of systemic infarcts following arterial embolism.						
+124	pale infarct spleen. a wedge-shaped shrunken area of pale colour is seen with base resting under the capsule, while the margin  is congested.						
+125	renal infarct. renal tubules and glomeruli show typical coagulative necrosis i.e. intact outlines of necrosed cells. there is acute  inflammatory infiltrate at the periphery of the infarct.		
+				
+126	Infarct kidney. The wedge-shaped infarct is slightly depressed on the surface. The apex lies internally and wide base is on the surface. The central area is pale while the margin is haemorrhagic.		
+				
+127	Pale infarct spleen. The affected area shows outlines of cells only due to coagulative necrosis while the margin of infracted area shows haemorrhage.						
+128	a, 'triple response' elicited by firm stroking of skin of forearm with a pencil. b, diagrammatic view of microscopic features o f triple response of the skin.						
+129	schematic illustration of pathogenesis of increased vascular permeability in acute inflammation. the serial numbers in the figure correspond to five numbers in the text.						
+130	Fluid interchange between blood and extracellular fluid(ECF). (HP = hydrostatic pressure, OP = osmotic pressure).
+						
+131	sequence of changes in the exudation of leucocytes. a, normal axial flow of blood with central column of cells and peripheral zone of cell-free plasma. b, margination and pavementing of neutrophils with narrow plasmatic zone. c, adhesion of neutrophils to endothelial cells with pseudopods in the intercellular junctions. d, emigration of neutrophils and diapedesis with damaged basement membrane. 						
+132	the boyden's chamber with millipore filter, shown by dotted line. a, suspension of leucocytes above is separated from test solution below. b, lower half of chamber shows migration of neutrophils towards chemotactic agent.						
+133	Stages in phagocytosis of a foreign particle. A, Opsonisation of the particle. B, Pseudopod engulfing the opsonised particle. C, Incorporation within the cell (phagocytic vacuole) and degranulation. D, Phagolysosome formation after fusion of lysosome of the cell.				
+	
+134	chemical mediators of inflammation.	
+					
+135	arachidonic acid metabolites via  cyclooxygenase pathway. 						
+136	arachidonic acid metabolites via lipooxygenase pathway. 						
+137	inter-relationship among clotting, fibrinolytic, kinin and complement systems.						
+138	 pathway of kinin system.	
+					
+139	pathway of the clotting system.	
+					
+140	the activation of fibrinolytic system.	
+					
+141	Giant cells of various types. A, Foreign body giant cell with uniform nuclei dispersed throughout the cytoplasm. B, Langhans' giant cells with uniform nuclei arranged peripherally or clustered at the two poles. C, Touton giant cell with circular pattern of nuclei and vacuolated cytoplasm. D, Anaplastic tumour giant cell with nuclei of variable size and shape. E, Reed-Sternberg cell. F, Osteoclastic tumour giant cell.						
+142	an abscess in the skin. it contains pus composed of necrotic tissue, debris, fibrin, rbcs and dead and living neutrophils. some macrophages are seen at the periphery. 						
+143	an abscess in the skin. it contains pus composed of necrotic tissue, debris, fibrin, rbcs and dead and living neutrophils. some macrophages are seen at the periphery. 						
+144	sequelae of pyaemia.	
+					
+145	fate of acute inflammation.
+						
+146	mechanism of evolution of a granuloma (il=interleukin;ifn= interferon; tnf = tumour necrosis factor). 	
+					
+147	morphology of a tubercle. there is central caseation necrosis, surrounded by elongated epithelioid cells having characteristic slipper-shaped nuclei, with interspersed langhans' giant cells. periphery shows lymphocytes.						
+148	tuberculosis of the lymph nodes showing presence of acid-fast bacilli in ziehl-neelsen staining.		
+				
+149	schematic evolution of tubercle. in fully formed granuloma, the centre is composed of granular caseation necrosis, surrounded by epithelioid cells and langhans' giant cells and peripheral rim of lymphocytes bounded by fibroblasts.						
+150	the primary complex composed of 3 components: ghon's focus, draining lymphatics, and hilar lymph nodes. 		
+				
+151	caseating granulomatous lymphadenitis. a, cut section of matted mass of lymph nodes shows merging capsules and large areas of caseation necrosis (arrow). b, caseating epithelioid cell granulomas with some langhans' giant cells in the cortex of lymph node.						
+152	sequelae of primary complex. a, healing by fibrosis and calcification. b, progressive primary tuberculosis spreading to the other areas of the same lung or opposite lung. c, Miliary spread to lungs, liver, spleen, kidneys and brain. d, progressive secondary pulmonary tuberculosis from reactivation of dormant primary complex.						
+153	caseating granulomatous lymphadenitis. a, cut section of matted mass of lymph nodes shows merging capsules and large areas of caseation necrosis (arrow). b, caseating epithelioid cell granulomas with some langhans' giant cells in the cortex of lymph node. 						
+154	progressive secondary tuberculosis. a, endogenous infection from reactivation of dormant primary complex. b, exogenous infection from fresh dose of tubercle bacilli.						
+155	fibrocaseous tuberculosis. a, non-cavitary (chronic) fibrocaseous tuberculosis (left) and cavitary/open fibrocaseous tuberculos is(right). b, chronic fibrocaseous tuberculosis lung. sectioned surface shows a cavity in the apex of the lung (arrow). there is consolidation of lung parenchyma surrounding the cavity. 						
+156	microscopic appearance of lesions of secondary fibrocaseous tuberculosis of the lung showing wall of the cavity. 			
+			
+157	microscopic appearance of lesions of secondary fibrocaseous tuberculosis of the lung showing wall of the cavity. 		
+				
+158	miliary tuberculosis lung. the sectioned surface of the lung parenchyma shows presence of minute millet-seed sized tubercles.		
+				
+159	A, Bilateral tuberculous caseous pneumonia. B, Tuberculous caseous pneumonia showing exudative reaction. In AFB staining, these cases have numerous acid-fast bacilli (not shown here).	
+					
+160	miliary tubercles in lung  having minute central caseation necrosis.						
+161	lepra bacilli in ll seen in fite-faraco stain as globi and cigarettes-in-a-pack appearance inside the foam macrophages. 
+						
+162	miliary tubercles in lung  having minute central caseation necrosis.						
+163	lepromatous leprosy (ll). there is collection of proliferating foam macrophages (lepra cells) in the dermis with a clear subepidermal zone.						
+164	lepromatous leprosy (ll). there is collection of proliferating foam macrophages (lepra cells) in the dermis with a clear subepidermal zone.						
+165	tuberculoid leprosy (tt). granuloma eroding the basal layer of the epidermis. the granuloma is composed of epithelioid cells with sparse langhans' giant cells and lymphocytes. 				
+		
+166	tuberculoid leprosy (tt). granuloma eroding the basal layer of the epidermis. the granuloma is composed of epithelioid cells with sparse langhans' giant cells and lymphocytes. 			
+			
+167	Organ involvement in various stages of acquired syphilis. A, Primary syphilis: Primary lesion is 'chancre' on glans penis. B, Secondary syphilis: Mucocutaneous lesions-mucous patches on oral and vaginal mucosa and generalised skin eruptions. C,Tertiary syphilis: Localised lesion as gumma of liver with scarring (hepar lobatum); diffuse lesions (right) in aorta (aneurysm, narrowing of mouths of coronary ostia and incompetence of aortic valve ring) and nervous system. 
+						
+168	typical microscopic appearance in the case of syphilitic gumma of the liver. central coagulative necrosis is surrounded by palisades of macrophages and plasma cells marginated peripherally by  fibroblasts. 		
+				
+169	actinomycosis, sites and routes of infection.						
+170	actinomycosis. microscopic appearance of sulphur granule lying inside an abscess. the margin of the colony shows hyaline filaments highlighted by masson's trichrome stain (right photomicrograph). 			
+			
+171	actinomycosis. microscopic appearance of sulphur granule lying inside an abscess. the margin of the colony shows hyaline filaments highlighted by masson's trichrome stain (right photomicrograph). 	
+					
+172	common location of lesions in sarcoidosis. the lesions are predominantly seen in lymph nodes and throughout lung parenchyma.
+						
+173	sarcoidosis in lymph node. characteristically, there are non-caseating epithelioid cell granulomas which have paucity of lymphocytes. a giant cell with inclusions is also seen in the photomicrograph (arrow).	
+					
+174	sarcoidosis in lymph node. characteristically, there are non-caseating epithelioid cell granulomas which have paucity of lymphocytes. a giant cell with inclusions is also seen in the photomicrograph (arrow).	
+					
+175	Parenchymal cells in relation to cell cycle (G0)Resting phase; G1, G2-Gaps; S-Synthesis phase; M-Mitosis phase). The inner circle shown with green line represents cell cycle for labile cells; circle shown with yellow-orange line represents cell cycle for stable cells; and the circle shown with red line represents cell cycle for permanent cells. Compare them with traffic signals-green stands for 'go' applies here to dividing labile cells; yellow-orange signal for 'ready to go' applies here to stable cells which can be stimulated to enter cell cycle; and red signal for 'stop' here means non-dividing permanent cells. 		
+				
+176	active granulation tissue has inflammatory cell infiltrate, newly formed blood vessels and young fibrous tissue in loose matrix.						
+177	active granulation tissue has inflammatory cell infiltrate, newly formed blood vessels and young fibrous tissue in loose matrix.						
+178	primary union of skin wounds. a, the incised wound as well as suture track on either side are filled with blood clot and there is inflammatory response from the margins. b, spurs of epidermal cells migrate along the incised margin on either side as well as  around the suture track. formation of granulation tissue also begins from below. c, removal of suture at around 7th day results in scar tissue at the sites of incision and suture track.			
+			
+179	Secondary union of skin wounds. A, The open wound is filled with blood clot and there is inflammatory response at the junction of viable tissue. B, Epithelial spurs from the margins of wound meet in the middle to cover the gap and separate the underlying viable tissue from necrotic tissue at the surface forming scab. C, After contraction of the wound, a scar smaller than the original wound is left.						
+180	Fracture healing. A, Haematoma formation and local inflammatory response at the fracture site. B, Ingrowth of granulation tissue with formation of soft tissue callus. C, Formation of procallus composed of woven bone and cartilage with its characteristic fusiform appearance and having 3 arbitrary components-external, intermediate and internal callus. D, Formation of osseous callus composed of lamellar bone following clearance of woven bone and cartilage. E, Remodelled bone ends; the external callus cleared away. Intermediate callus converted into lamellar bone and internal callus developing bone marrow cavity.		
+				
+181	callus formation in fracture healing.	
+					
+182	common stains used for demonstration of microbes. a, Gram's stain. b, Ziehl-Neelsen (ZN) or afb stain. c, Giemsa stain. d, Periodic acid Schiff (PAS) stain. e, Mucicarmine stain. f, Gomori methenamine silver (GMS) stain. 						
+183	forms of plague.			
+			
+184	marked peripheral blood lymphocytosis in whooping cough.						
+185	suppurative diseases caused by staphylococcus aureus. 						
+186	diseases caused by streptococci.		
+				
+187	diseases caused by clostridia.		
+				
+188	madura foot. brown granule lying in necrotic tissue in the discharging sinus.						
+189	candidiasis of the ulcer in the skin.			
+			
+190	lesions of amoebiasis.				
+		
+191	Life cycle of malaria (A) and major pathological changes in organs (B).						
+192	amoebic colitis. section from margin of amoebic ulcer shows necrotic debris, acute inflammatory infiltrate and a few trophozoites of Entamoeba histolytica  (arrow).						
+193	malarial parasite in blood film-various stages of two main species,  p. vivax  and p. falciparum. 				
+		
+194	malarial parasite in blood film-various stages of two main species,  p. vivax  and p. falciparum. 				
+		
+195	malarial parasite in blood film-various stages of two main species,  p. vivax  and p. falciparum. 			
+			
+196	malarial parasite in blood film-various stages of two main species,  p. vivax  and p. falciparum. 			
+			
+197	Microfilariae in blood film.	
+					
+198	cysticercus in skeletal muscle. the worm is seen in the cyst while the cyst wall shows palisade layer of histiocytes. 				
+		
+199	lesions produced by torch complex infection in foetus in utero.						
+201	examples of carcinoma (epithelial malignant tumour) (a) and sarcoma (mesenchymal malignant tumour) (b).						
+
+202	salient gross and microscopic features of prototypes of benign (left)  and malignant (right) tumours. 		
+				
+203	diagrammatic representation of cytomorphologic features of neoplastic cells. characteristics of cancer (b) in a gland are contrasted with the appearance of an acinus (a).			
+			
+204	gross appearance of a prototype of benign and malignant tumour. 						
+205	normal and abnormal (atypical) mitotic figures.						
+206	Nuclear features of malignant cells in malignant melanoma-pleomorphism, anisonucleosis, increased N/C: ratio, nuclear hyperchromatism and prominent nucleoli.						
+207	microscopic appearance of loss of nuclear polarity (b)contrasted with normal basal polarity in columnar epithelium (a). the basement membrane is intact in both.						
+208	a multinulceate tumour giant cell in osteosarcoma.						
+209	tumour stroma. a, medullary carcinoma of breast, rich in parenchymal cells. b, scirrhous carcinoma of breast having abundant collagenised (desmopastic) stroma.						
+210	inflammatory reaction in the stroma of the tumour. a, lymphocytic reaction in seminoma testis. b, granulomatous reaction (thick arrow) in hodgkin's lymphoma (thin arrow for RS cell). 
+						
+211	metastatic carcinoma in lymph nodes. a, matted mass of lymph nodes is surrounded by  increased fat. sectioned surface shows merging capsules of lymph nodes and replacement of grey brown tissue of nodes by large grey white areas of tumour. b, masses of  malignant cellsare seen in the subcapsular sinus and extending into the underlying nodal tissue.						
+212	metastatic carcinoma in lymph nodes. a, matted mass of lymph nodes is surrounded by  increased fat. sectioned surface shows merging capsules of lymph nodes and replacement of grey brown tissue of nodes by large grey white areas of tumour. b, masses of  malignant cellsare seen in the subcapsular sinus and extending into the underlying nodal tissue.						
+213	 regional nodal metastasis. a, axillary nodes involved by carcinoma breast. b, hilar and para-tracheal lymph nodes involved by bronchogenic carcinoma. c, lymphatic spread begins by lodgement of tumour cells in subcapsular sinus via afferent lymphatics entering at the convex surface of the lymph node. 						
+214	Metastatic sarcoma lung. A, Sectioned surface of the lung shows replacement of slaty-grey spongy parenchyma with multiple, firm, grey-white nodular masses, some having areas of haemorhages and necrosis. B, Microscopic appearance of pulmonary metastatic deposits from sarcoma.			
+			
+215	gross appearance of haematogenous metastases at common sites.						
+216	Metastatic sarcoma lung. A, Sectioned surface of the lung shows replacement of slaty-grey spongy parenchyma with multiple, firm, grey-white nodular masses, some having areas of haemorhages and necrosis. B, Microscopic appearance of pulmonary metastatic deposits from sarcoma.		
+				
+217	mechanism and biology of local invasion and metastasis. the serial numbers in the figure correspond to their description in the text.						
+218	carcinoma in situ of uterine cervix. the atypical dysplastic squamous cells are confined to all the layers of the mucosa but the basement membrane on which these layers rest is intact.				
+		
+219	schematic illustration to show molecular basis of cancer. 						
+220	the monoclonal origin of tumour cells in uterine leiomyoma.						
+221	schematic representation of major properties of cancer in terms of molecular carcinogenesis. 					
+	
+222	mechanisms of activation of protooncogenes to form growth promoting oncogenes.						
+
+223	schematic representation of activation-inactivation of cancer-associated genes in cell cycle. 						
+
+224	sequential stages in chemical carcinogenesis (left ) in evolution of cancer (right).					
+	
+225	schematic representation of the ames' test. 						
+
+226	neoplastic (left) and non-neoplastic complications (right) of ionising radiation.						
+227	Replication and integration of DNA virus in the host cell. A, Replication: Step 1. The DNA virus invades the host cell. Step 2. Viral DNA is incorporated into the host nucleus and T-antigen is expressed immediately after infection. Step 3. Replication of viral DNA occurs and other components of virion are formed. The new virions are assembled in the cell nucleus. Step 4. The new virions are released, accompanied by host cell lysis. B, Integration : Steps 1 and 2 are similar as in replication. Step 3. Integration of viral genome into the host cell genome occurs which requires essential presence of functional T-antigen. Step 4. A'transformed (neoplastic) cell' is formed.						
+
+228	integration and replication of rna virus (retrovirus) in the host cell. step 1.  the rna virus invades the host cell. the viral envelope fuses  with the plasma membrane of the host cell; viral rna genome as well as reverse transcriptase are released into the cytosol.  step 2.  reverse transcriptase acts as template to synthesise single strand of matching  viral DNA which is then copied to  form complementary DNA resulting in  double-stranded viral DNA (provirus).  step 3.  the provirus is integrated into the host cell genome producing 'transformed host cell.'  step 4 .integration of the provirus brings about replication of viral components  which are then assembled and released by budding.						
+
+229	viruses (in brackets) in human tumours. 						
+230	schematic illustration of immune responses in cancer. for details see the text (ctl = cytotoxic t-lymphocyte; nk cell = natural killer cell; adcc = antibody-dependent cellular cytotoxicity). 		
+				
+231	Consumption of tobacco in India as estimated by weight (Source: National Council of Applied Economic Research, New Delhi).
+						
+232	major adverse effects of tobacco smoking.  right sideshows smoking-related neoplastic diseases while left side  indicates non-neoplastic diseases associated with smoking, numbered serially in order of frequency of occurrence.						
+233	Metabolism of ethanol in the liver. Thickness and intensity of colour of arrow on left side of figure corresponds to extent of metabolic pathway followed (MEOS = Microsomal ethanol oxidizing system; ADH-alcohol dehydrogenase; ALDH = aldehyde dehydrogenase; NAD=nicotinamide adenine dinucleotide; NADH = reduced NAD; NADP = nicotinamide adenine dinucleotide phosphate; NADPH = reduced NADP).	
+					
+234	complications of chronic alcoholism.	
+					
+235	complications of lead poisoning.	
+					
+236	major sequelae of obesity. 		
+				
+237	two forms of pem. 			
+			
+238	lesions resulting from vitamin a deficiency.   						
+240	lesions in rickets. 	
+					
+241	 lesions in scurvy. 
+						
+242	wet (cardiac) beriberi. flabby, thin-walled, enlarged and globular appearance of the heart due to four-chamber dilatation. 
+						
+243	nuclear sexing. a, sex chromatin as seen in scraped squamous cells from oral cavity. b, Barr body seen as drumstick appendage attached to a lobe of a circulating neutrophil. 			
+			
+244	classification of chromosomes based on size and location of centromere.						
+245	clinical features of important forms of numerical chromosomal abnormalities.						
+246	common structural abnormalities of human chromosomes.						
+247	diagrammatic view of comparative features of typical Gaucher cell (a). b, typical macrophage in Niemann-Pick disease. c, a Gaucher cell (arrow) in bone marrow aspirate smear. 				
+		
+248	diagrammatic view of comparative features of typical Gaucher cell (a). b, typical macrophage in Niemann-Pick disease. c, a Gaucher cell (arrow) in bone marrow aspirate smear. 						
+
+250	 various types of epithelial cells seen in normal Pap smear. 						
+251	inflammatory smear with Candida (candidiasis, moniliasis) (arrow).						
+252	Trichomonas in inflammatory smear (arrow). 						
+253	L-SIL. the smear shows koilocytes having abundant vacuolated cytoplasm and nuclear enlargement (arrow).			
+			
+254	H-SIL. the squamous cells have scanty cytoplasm and markedly hyperchromatic nuclei having irregular nuclear outlines. the background shows numerous PMNs.					
+	
+255	 invasive squamous cell carcinoma. the malignant epithelial cells have anisonucleosis with irregular nuclear chromatin with prominent nucleoli. a few fibre cells and caudate cells are also seen  (arrow). the background shows abundant haemorrhage and some necrotic debris.						
+
+256	 pleural fluid positive for signet ring cells (adenocarcinoma stomach). there are large number of malignant cells scattered singly or in small clusters having characteristic cytoplasmic vacuoles, nuclear hyperchromasia and prominent nucleoli.						
+257	 sex chromatin. a, buccal smear showing condensation of chromatin under the nuclear membrane. b, blood film showing presence of drumstick appendage attached to a nuclear lobe of the  neutrophil.				
+		
+258	 method of obtaining cervical smear with Ayre spatula (fast smear).						
+259	 equipments required for transcutaneous fnac.						
+260	 equipments required for transcutaneous fnac.						
+262	 Preparation of smears. Semisolid aspirates are crush-smeared by flat pressure with cover slip or glass slide (A). Fluid or blood droplet is collected along edge of spreader (B), and pulled as for peripheral blood films (C). Particles at the end of the smear are crush-smeared (D). 		
+				
+263	a, section of cellblock preparation showing hepatocellular carcinoma. b, same cellblock, stained with cytokeratin for epithelial cells.						
+264	 FNA thyroid showing follicular neoplasm. 						
+265	 FNA lymph node showing tuberculous lymphadenitis. Inbox shows Ziehl-Neelsen staining having many tubercle bacilli.		
+				
+266	 FNA breast lump showing features of fibroadenoma.						
+267	FNA breast showing features of infiltrating ductal carcinoma.						
+268	Abdominal fat aspirate stained with Congo red stain for amyloid.						
+269	sites of haematopoiesis in the bone marrow in the adult.						
+270	a normal bone marrow in an adult as seen in a section after trephine biopsy. bony trabeculae support the marrow-containing tissue. approximately 50% of the soft tissue of the bone consists of  haematopoietic tissue and 50% is fatty marrow. 						
+271	schematic representation of differentiation of multipotent stem cells into blood cells.					
+						
+273	The erythroid series. There is progressive condensation of the nuclear chromatin which is eventually extruded from the cell at the late erythroblast stage. The cytoplasm contains progressively less rna and more haemoglobin.
+ 						
+274	reticulocytes in blood as seen in blood stained by supravital dye, new methylene blue.				
+		
+275	schematic diagram of haemoglobin synthesis in the developing red cell.						
+276	A, Normal adult haemoglobin molecule (HbA) consisting of alpha2 beta2 globin chains, each with its own haem group in oxy and deoxy state. The haemoglobin tetramer can bind up to four molecules of oxygen in the iron containing sites of the haem molecules. As oxygen is bound, salt bridges are broken, and 2,3-BPG and CO2 are expelled. B, Hb-dissociation curve. On dissociation of oxygen from Hb molecule i.e. on release of oxygen to the tissues, salt bridges are formed again, and 2,3-BPG and CO2, are bound. The shift of the curve to higher oxygen delivery is affected by acidic pH, increased 2,3-BPG and HbA molecule while oxygen delivery is less with high pH, low 2,3-BPG and HbF.						
+277	normal red cell destruction in the RE system.						
+278	some of the common morphologic abnormalities of red cells (the serial numbers in the illustrations correspond to the order in which they are described in the text).						
+279	 daily iron cycle. iron on absorption from upper small intestine circulates in plasma bound to transferrin and is transported to the bone marrow for utilisation in haemoglobin synthesis. the mature red cells are released into circulation, which on completion of their lifespan of 120 days, die. they are then phagocytosed by re cells and iron stored as ferritin and haemosiderin. stored iron is mobilised in res ponse to increased demand and used for haemoglobin synthesis, thus completing the cycle (m = males; f = females).		
+				
+280	contrasting pathways of absorption and transport of iron, vitamin B12 and folic acid.				
+		
+281	laboratory findings in iron deficiency anaemia.						
+282	iron deficiency anaemia. a, pbf showing microcytic hypochromic anaemia. there is moderate microcytosis and hypochromia. b, examination of bone marrow aspirate showing micronormoblastic erythropoiesis.
+						
+283	iron deficiency anaemia. a, pbf showing microcytic hypochromic anaemia. there is moderate microcytosis and hypochromia. b, examination of bone marrow aspirate showing micronormoblastic erythropoiesis.	
+					
+284	a siderocyte containing Pappenheimer bodies, a normal sideroblast and a ring sideroblast.				
+		
+285	sideroblastic anaemia bone marrow aspirate smear in Perls' stain shows marked excess of reticular iron and a ringed sideroblast (arrow) showing Prusian blue granules in the cytoplasm.				
+		
+286	Pathogenesis of anaemia of chronic disorders through suppression of erythropoiesis by cytokines.				
+		
+288	general laboratory findings in megaloblastic anaemia.						
+289	megaloblastic anaemia. a, pbf showing prominent macrocytosis of red cells and hypersegmented neutrophils. b, examination of bone marrow aspirate showing megaloblastic erythropoiesis.			
+			
+290	diagrammatic representation of classification of haemolytic anaemias based on principal mechanisms of haemolysis.	
+					
+291	malarial parasite,  plasmodium falciparum , in the peripheral blood showing numerous ring stages and a crescent of gametocyte. the background shows a normoblast.						
+292	Diagrammatic representation of pathogenesis of hereditary spherocytosis. A, Normal red cell with biconcave surface and normal size. B, Red cell membrane as seen in cross section in hereditary spherocytosis. Mutations in membrane proteins-alpha-spectrin, beta-spectrin and ankyrin, result in defect in anchoring of lipid bilayer of the membrane to the underlying cytoskeleton. C, This results in spherical contour and small size so as to contain the given volume of haemoglobin in the deformed red cell. D, During passage through the spleen, these rigid spherical cells lose their cell membrane further. This produces a circulating subpopulation of hyperspheroidal spherocytes while splenic macrophages in large numbers phagocytose defective red cells causing splenomegaly						
+293	peripheral blood film findings in hereditary spherocytosis.  						
+294	peripheral blood film findings in hereditary spherocytosis.  						
+295	osmotic fragility test in hereditary spherocytosis showing increased fragility. 						
+296	abbreviated pathways of anaerobic glycolysis (embden-meyerhof) and hexose monophosphate (hmp) shunt in the metabolism of erythrocyte. the two red cell enzyme defects, glucose-6 phosphate dehydrogenase (g6pd) and pyruvate kinase, are shown bold. 						
+297	the geographic distribution of major haemoglobinopathies and thalassaemias. Thalassaemia and hbd are the haemoglobin disorders common in India.						
+298	pathogenesis of sickle cell anaemia. a, basic molecular defect. b, mechanism of polymerisation and consequent sickling of red cells containing hbs. c, mechanism of sickling on oxygenation-deoxygenation.				
+		
+299	sickle cell anaemia. pbf shows crescent shaped elongated red blood cells, a few target cells and a few erythroblasts. 			
+			
+300	pathogenesis of beta-thalassaemia major. 		
+				
+301	Schematic representation of sites of beta-globin gene mutation in chromosome 11 giving rise to beta-thalassaemia.				
+		
+302	major clinical features of beta-thalassaemia major.						
+303	peripheral blood film findings in beta-thalassaemia major. 						
+304	peripheral blood film findings in beta-thalassaemia major. 						
+305	Osmotic fragility testing beta-thalassaemia major showing decreased fragility.						
+306	bone marrow trephine biopsy in aplastic anaemia contrasted against normal cellular marrow. a, normal  marrow biopsy shows about 50% fatty spaces and about 50% is haematopoietic marrow  which contains a heterogeneous mixture of myeloid, erythroid and  lymphoid cells. b, in aplastic anaemia, the biopsy shows suppression of myeloid and erythroid cells and replacement of haematopoetic elements  by fat. there are scanty foci of cellular components composed chiefly of  lymphoid cells.						
+308	thrombopoiesis.						
+
+309	Molecular mechanisms in platelet adhesion and release reaction (Gp = glycoprotein).						
+
+310	Main events in primary haemostasis-platelet adhesion, release (activation) and aggregation.						
+
+311	the haemostatic balance.			
+			
+312	pathways of blood coagulation, fibrinolytic system and participation of platelets in activation of the cascade and their role in haemostatic plug formation. 						
+313	Laboratory findings of ITP contrasted with those found in a normal individual. A, Peripheral blood in ITP shows presence of reduced number of platelets which are often large. B, Bone marrow in ITP shows characteristically increased number of megakaryocytes with single non-lobulated nuclei and reduced cytoplasmic granularity (inbox on right photomicrograph).
+						
+314	the pathogenesis of disseminated intravascular coagulation. 						
+315	pathophysiology of disseminated intravascular coagulation.						
+316	normal lymph node. a, the anatomic structure and functional zones of a lymph node. b, maturation of lymphoid cells in the follicle.						
+317	Reactive lymphadenitis, sinus histiocytosis type						
+318	Reactive lymphadenitis, follicular hyperplasia type.						
+319	Granulopoiesis and the cellular compartments of myeloid cells in the bone marrow, blood and tissues. 			
+			
+320	the formation of lymphoid series of cells.						
+321	morphology of normal mature leucocytes in peripheral blood.						
+322	common variations in neutrophil morphology. 						
+323	The role of EBV in the pathogenesis of infectious mononucleosis, nasopharyngeal carcinoma and Burkitt's lymphoma.		
+				
+324	peripheral blood film showing atypical lymphocytes in infectious mononucleosis.						
+325	Leukaemoid reaction. A, Peripheral blood film showing marked neutrophilic leucocytosis accompanied with late precursors of myeloid series. B, Neutrophil (or leucocyte) alkaline phosphatase (NAP or LAP) activity is higher as demonstrated by this cytochemical stain.				
+		
+326	Leukaemoid reaction. A, Peripheral blood film showing marked neutrophilic leucocytosis accompanied with late precursors of myeloid series. B, Neutrophil (or leucocyte) alkaline phosphatase (NAP or LAP) activity is higher as demonstrated by this cytochemical stain.			
+			
+327	The Philadelphia (Ph) chromosome. There is reciprocal translocation of the part of the long arms of chromosome 22 to the long arms of chromosome 9 written as t(9;22).						
+328	maturation stages of myeloid cells and stages in development of myeloid neoplasms. 						
+329	pbf findings in chronic myeloid leukaemia (cml).						
+330	pbf findings in chronic myeloid leukaemia (cml).						
+331	pbf findings in a case of acute myeloblastic leukaemia (aml).						
+332	pbf findings in a case of acute myeloblastic leukaemia (aml).						
+333	Schematic representation of WHO-REAL classification of lymphoid neoplasms. Various immunophenotypes of B and T-cell malignancies are correlated with normal immunophenotypic differentiation/maturation stages of B and T-cells in the bone marrow, lymphoid tissue,peripheral blood and thymus.			
+			
+334	Microscopic features of 4 forms of Hodgkin's disease of lymph node. The inset on right side of each type shows the morphologic variant of RS cell seen more often in particular histologic type.				
+		
+335	RS cells showing positive immunostaining for CD15, a B-cell marker.						
+336	Hodgkin's disease. A, Nodular sclerosis type. There are bands of collagen forming nodules and characteristic lacunar RS cells (inbox in left figure) . B, Mixed cellularity type. There is admixture of mature lymphocytes, plasma cells, neutrophils and eosinophils and classic RS cells in the centre of the field (inbox in right figure).						
+337	Hodgkin's disease. A, Nodular sclerosis type. There are bands of collagen forming nodules and characteristic lacunar RS cells (inbox in left figure) . B, Mixed cellularity type. There is admixture of mature lymphocytes, plasma cells, neutrophils and eosinophils and classic RS cells in the centre of the field (inbox in right figure).						
+338	pbf findings in acute lymphoblastic leukaemia (all). the cells are large,  with round to convoluted nuclei having high n/c ratio and no cytoplasmic granularity. 						
+339	pbf findings in acute lymphoblastic leukaemia (all). the cells are large,  with round to convoluted nuclei having high n/c ratio and no cytoplasmic granularity. 						
+340	PBF in chronic lymphocytic leukaemia (CLL). There is large excess of mature and small differentiated lymphocytes and some degenerated forms appearing as bare smudged nuclei.					
+	
+341	PBF in chronic lymphocytic leukaemia (CLL). There is large excess of mature and small differentiated lymphocytes and some degenerated forms appearing as bare smudged nuclei.				
+		
+342	Prototypes of non-Hodgkin's lymphoma-small lymphocytic lymphoma SLL/ CLL (B) and follicular lymphoma (C) contrasted with structure of normal lymph node (A).						
+343	Burkitt's lymphoma. The tumour shows uniform cells having high mitotic rate. Scattered among the tumour cells are benign macrophages surrounded by a clear space giving 'starry sky' appearance.	
+					
+344	Burkitt's lymphoma. The tumour shows uniform cells having high mitotic rate. Scattered among the tumour cells are benign macrophages surrounded by a clear space giving 'starry sky' appearance.	
+					
+345	Hairy cell leukaemia. A, Peripheral blood shows presence of a leukaemic cells with hairy cytoplasmic projections B, Trephine biopsy shows replacement of marrow spaces with abnormal mononuclear cells.	
+					
+346	Hairy cell leukaemia. A, Peripheral blood shows presence of a leukaemic cells with hairy cytoplasmic projections B, Trephine biopsy shows replacement of marrow spaces with abnormal mononuclear cells.	
+					
+347	schematic diagram showing molecular pathogenesis of multiple myeloma and its major manifestations.			
+			
+348	the major sites of lesions in multiple myeloma. 						
+349	bone marrow aspirate in myeloma showing numerous plasma cells, many with abnormal features.		
+				
+350	bone marrow aspirate in myeloma showing numerous plasma cells, many with abnormal features.		
+				
+351	serum electrophoresis showing normal serum pattern (a), as contrasted with that in benign polyclonal gammopathy (b) and in monoclonal gammopathy (c), typical of plasma cell  myeloma. 		
+				
+352	metastatic carcinomatous deposits in the matted mass of lymph nodes. there are areas of necrosis in the circumscribed nodular areas.						
+353	Langerhans cell histiocytosis-eosinophilic granuloma. Bone biopsy shows presence of infiltrate by collections of histiocytes having vesicular nuclei admixed with eosinophils.			
+			
+354	the structure of a medium-sized muscular artery. 						
+355	diagrammatic representation of three forms of arteriolosclerosis, commonly seen in hypertension. 		
+				
+356	monckeberg's arteriosclerosis (medial calcific sclerosis). there is calcification exclusively in the tunica media unassociated with any significant inflammation.						
+357	Diagrammatic representation of pathogenesis of atherosclerosis as explained by 'reaction-to-injury'hypothesis. A, Endothelial injury. B, Adhesion of platelets and migration of blood monocytes from blood stream. C, Smooth muscle cell proliferation into the intima and ingrowth of new blood vessels.
+						
+358	mechanism of foam cell formation.	
+					
+359	schematic evolution of lesions in atherosclerosis.						
+360	structure of a fully-developed atheroma. the opened up inner surface of the abdominal aorta shows a variety of atheromatous lesions. while some are raised yellowish-white lesions raised above the surface, a few have ulcerated surface. orifices of some of the branches coming out of the wall are narrowed by the atherosclerotic process.						
+361	histologic appearance of a fully-developed atheroma. 						
+362	histologic appearance of a fully-developed atheroma. 						
+363	complicated atheromatous plaque lesion. there is narrowing of the lumen of coronary due to fully developed atheromatous plaque which has dystrophic calcification in its core.					
+	
+364	major sites of atherosclerosis (serially numbered) in descending order of frequency. 					
+	
+365	 major forms of symptomatic atherosclerotic disease.						
+366	syphilitic aortitis. there is endarteritis and periarteritis of the vasa vasorum in the media and adventitia. there is perivascular infiltrate of plasma cells, lymphocytes and macrophages.				
+		
+367	leucocytoclastic vasculitis. the vessel wall shows fibrinoid necrosis surrounded by viable as well as fragmented neutrophils.	
+					
+368	Buerger's disease (Thromboangiitis obliterans). There is acute panarteritis. The lumen is occluded by a thrombus containing microabscesses.						
+369	common shapes of aneurysms of various types.						
+370	Buerger's disease (Thromboangiitis obliterans). There is acute panarteritis. The lumen is occluded by a thrombus containing microabscesses.						
+371	sites of major forms of aneurysms.		
+				
+372	Two classification schemes of thoracic aortic dissection: Stanford and DeBakey. Stanford type A involving ascending aorta only includes DeBakey's type I (involving ascending aorta and extending into descending aorta as well) and II (limited to ascending aorta only), while Stanford type B is limited to descending aorta corresponds to DeBakey type III.				
+		
+373	A, Dissecting aneurysm, (Type 1) beginning in the aortic arch and extending distally into the descending thoracic aorta as well as proximally into the ascending aorta. An intimal tear is seen in the arch. B, The cross section shows dissection typically separating the intima and inner two-thirds of the media on luminal side, from the outer one-third of the media and the adventitia. C, The ascending aorta is seen with the heart. There is an intimal tear in the aortic wall (black arrow) extending proximally upto aortic valve dissecting the media which contains clotted blood (white arrow)						
+374	capillary haemangioma of the skin. there are capillaries lined by plump endothelial cells and containing blood. the intervening stroma consists of scant connective tissue. 					
+	
+375	capillary haemangioma of the skin. there are capillaries lined by plump endothelial cells and containing blood. the intervening stroma consists of scant connective tissue. 				
+		
+376	cavernous haemangioma of the liver. the vascular spaces are large, dilated, many containing blood, and are lined by flattened endothelial cells. scanty connective tissue stroma is seen between the cavernous spaces.	
+					
+377	cavernous haemangioma of the liver. the vascular spaces are large, dilated, many containing blood, and are lined by flattened endothelial cells. scanty connective tissue stroma is seen between the cavernous spaces.	
+					
+378	cavernous lymphangioma of the tongue. large cystic spaces lined by the flattened endothelial cells and containing lymph are present. stroma shows scattered collection of lymphocytes.  					
+	
+379	cavernous lymphangioma of the tongue. large cystic spaces lined by the flattened endothelial cells and containing lymph are present. stroma shows scattered collection of lymphocytes.  					
+	
+380	glomus tumour. there are blood-filled vascular channels lined by endothelial cells and surrounded by nests and masses of glomus cells.						
+381	glomus tumour. there are blood-filled vascular channels lined by endothelial cells and surrounded by nests and masses of glomus cells.						
+382	Haemangioendothelioma nose. A, The vascular channels are lined by multiple layers of plump endothelial cells having minimal mitotic activity obliterating the lumina. B, Reticulin stain shows condensation of reticulin around the vessel wall but not between the proliferating cells.			
+			
+383	haemangiopericytoma liver. spindled cells surround the vascular lumina in a whorled fashion, highlighted by reticulin stain.  these tumour cells have bland nuclei and few mitoses.				
+		
+384	Kaposi's sarcoma in late nodular stage. There are slit-like blood-filled vascular spaces. Between them are present bands of plump spindle-shaped tumour cells.						
+385	Kaposi's sarcoma in late nodular stage. There are slit-like blood-filled vascular spaces. Between them are present bands of plump spindle-shaped tumour cells.						
+386	Angiosarcoma spleen. A, Gross appearance of lobulated masses of grey white necrotic and haemorrhagic parenchyma. B, The tumour cells show proliferation of moderately pleomorphic anaplastic cells. C, These tumour cells show positive staining for endothelial marker, CD34.			
+			
+388	the normal structure of the heart.	
+					
+389	distribution of blood supply to the heart.						
+390	schematic evolution of congestive heart failure and its effects. 						
+391	schematic pathophysiology of compensatory mechanisms in cardiac failure. 						
+392	A, Concentric cardiac hypertrophy. Weight of the heart is increased. The chambers opened up at the apex show concentric thickening of left ventricular wall (white arrow) with obliterated lumen (hypertrophy without dilatation). B, Eccentic cardiac hypertrophy. The heart is heavier. The free left ventricular wall is thickened (black arrow) while the lumen is dilated (white arrow) (hypertrophy with dilatation).						
+393	schematic diagram showing transverse section through the ventricles with left ventricular hypertrophy (concentric and eccentric)						
+394	A, Concentric cardiac hypertrophy. Weight of the heart is increased. The chambers opened up at the apex show concentric thickening of left ventricular wall (white arrow) with obliterated lumen (hypertrophy without dilatation). B, Eccentic cardiac hypertrophy. The heart is heavier. The free left ventricular wall is thickened (black arrow) while the lumen is dilated (white arrow) (hypertrophy with dilatation).						
+395	cardiac hypertrophy. individual myocardial fibres are thick with prominent vesicular nuclei.				
+		
+396	Ventricular septal defect. A, Schematic representation (LA = Left atrium; LV = Left ventricle; AO = Aorta; PV = Pulmonary valve; PT = Pulmonary trunk; RA = Right atrium; RV = Right ventricle; SVC = Superior vena cava; IVC = Inferior vena cava). B, The opened up chambers of the heart show a communication in the inter-ventricular septum superiorly (white arrow).				
+		
+397	atrial septal defect fossa ovalis type, a schematic representation (la = left atrium; lv = left ventricle; pv = pulmonary vein; ao = aorta; pt = pulmonary trunk; ra = right atrium; rv = right  ventricle; svc = superior vena cava; ivc = inferior vena cava).						
+398	 tetralogy of fallot, a schematic representation (la = left atrium; lv = left ventricle; pt = pulmonary trunk; pv = pulmonary vein; ao = aorta; ra = right atrium; rv = right ventricle; svc = supe-  rior vena cava; ivc = inferior vena cava).						
+399	Patent ductus arteriosus, a schematic representation (LA = Left atrium; LV = Left ventricle; PT = Pulmonary trunk; PV = Pulmonary vein, AO = Aorta; RA = Right atrium; RV = Right ventricle; SVC = Superior vena cava; IVC = Inferior vena cava).						
+400	postductal or adult type coarctation of the aorta, a schematic representation (la = left atrium;  lv = left ventricle; pt = pulmonary trunk; pv = pulmonary vein; ao = aorta; ra = right atrium; rv = right ventricle; svc = superior vena cava; ivc = inferior vena cava).				
+		
+401	left anterior descending (lad) coronary artery showing critical narrowing with  eccentric luminal obliteration due to complicated atheromatous plaque.						
+402	spectrum of coronary ischaemic manifestations. 						
+403	diagrammatic representation of extent of myocardial infarction in the depth of myocardium.			
+			
+404	common locations and the regions of involvement in myocardial infarction  the  hows region of myocardium affected by stenosis of three respective coronary trunks in descending order shown as: 1) left anterior descending coronary, 2) right coronary and 3) left circumflex coronary artery. a, as viewed from anterior surface. b, as viewed on transverse section at the apex of the heart. 
+						
+405	myocardial infarction, healed. opened up left heart shows grey white thinning of myocardium at the apex  (arrow) due to healed fibrous scarring.						
+406	old myocardial infarct. the infarcted area shows ingrowth of inflammatory granulation tissue.		
+				
+407	sequence of light microscopic changes in myocardial infarction.(for details, consult the text).		
+				
+408	some common ecg changes in acute myocardial infarction.						
+409	time course of serum cardiac markers for the diagnosis of acute mi. 						
+410	chronic ischaemic heart disease. there is patchy myocardial fibrosis, especially around small blood vessels in the interstitium .the intervening single cells and groups of myocardial cells show myocytolysis.
+						
+411	chronic ischaemic heart disease. there is patchy myocardial fibrosis, especially around small blood vessels in the interstitium .the intervening single cells and groups of myocardial cells show myocytolysis.
+						
+412	pathogenesis of cor pulmonale (rvh= right ventricular hypertrophy, rhf= right heart failure). 		
+				
+413	an aschoff body (granulomatous stage) in the myocardium. inbox shows anitschkow cell in longitudinal section (ls) with caterpillar-like serrated nuclear chromatin, while cross section (cs)shows owl-eye appearance of central chromatin mass and perinuclear halo.	
+					
+414	schematic representation of the anatomic regions of involvement and location of vegetations in rheumatic endocarditis (both  valvular and mural). serial numbers 1, 2 and 3 are denoted for the frequency of valvular involvement.						
+415	rheumatic valvulitis. a, location of vegetations on the valves of the left heart. the location of vegetations on mitral valve (left upper diagram) is shown as viewed from the left atrium, while the vegetations on aortic valve (left lower diagram) are shown as seen from the left ventricular surface.  b, opened up  chambers and valves of the left heart show irregularly scarred mitral valve leaving a fish-mouth or buttonhole opening between its two cusps (black arrow). the free  surface and margin of the mitral valve shows tiny firm granular vegetations (white arrow).						
+416	rheumatic heart disease. a, microscopic structure of the rheumatic valvulitis and a vegetation on the cusp of mitral valve in sagittal section. b, section of the myocardium shows healed aschoff nodules in the interstitium having collagen, sparse cellula rity, a multinucleate giant cell and anitschkow cells. inbox shows an anitschkow cell in cross section (cs) and in longitudinal section (LS). 	
+					
+417	infective endocarditis. a, location of vegetations on the valves of the left heart. the vegetations are shown on the mitral valve (left upper diagram) as viewed from the left atrium, while those on  the aortic valve (left lower diagram) are shown as seen from the left ventricle. b, vegetations on valves in infective endocarditis. opened up  chambers and valves of the left heart show presence of irregular, soft,  elevated grey white friable vegetations on the atrial (superior) surface of the mitral valve (arrow).						
+418	infective endocarditis. a, microscopic structure of a vegetation of be on the surface of mitral valve in sagittal section. b, section of the mitral valve shows fibrin cap on luminal surface, layer of bacteria, and deeper zone of inflammatory cells, with prominence of neutrophils. 		
+				
+419	complications and sequelae of infective endocarditis.			
+			
+420	mitral valve disease. normal mitral valve (a) contrasted with mitral stenosis (b) and mitral insufficiency (c). 		
+				
+421	aortic valve diseases. normal aortic valve (a) contrasted with aortic stenosis (b) and aortic insufficiency (c). 						
+422	the major pathophysiologic forms of idiopathic cardiomyopathies. 						
+423	fibrinopurulent pericarditis. the pericardium is covered with pink serofibrinous exudates. the space between the layers of the pericardium contains numerous inflammatory cells, chiefly pmns.			
+			
+424	appearance of the heart and the pericardium in chronic adhesive (a) and chronic constrictive pericarditis (b).		
+				
+426	the structure of an acinus which is part of the lung distal to terminal bronchiole. it shows respiratory bronchiole, alveolar ducts and alveolar sacs. 						
+427	Histologic structure of alveolar wall (alveolar septa). It shows capillary endothelium, capillary basement membrane and scanty interstitial tissue and the alveolar lining cells (type I or membranous pneumocytes and type II or granular pneumocytes).						
+428	schematic representation of sequence of events leading to the formation of hyaline membrane in neonatal and adult acute respiratory distress syndrome (ards). 						
+429	histological appearance of hyaline membrane disease. there are alternate areas of collapsed and dilated alveolar spaces, many of which are lined by eosinophilic hyaline membranes.		
+				
+430	histological appearance of hyaline membrane disease. there are alternate areas of collapsed and dilated alveolar spaces, many of which are lined by eosinophilic hyaline membranes.	
+					
+431	histologic changes in the pulmonary arterial branches of different sizes in pulmonary hypertension. 
+						
+432	the four stages of lobar pneumonia, showing correlation of gross appearance of the lung with microscopic appearance in each stage. for details consult the text. 						
+433	lobar pneumonia, acute congestion stage. there is congestion of septal walls while the air spaces contain pale oedema fluid and a few red cells.						
+434	lobar pneumonia, red hepatisation stage. the alveoli are filled with cellular exudates composed of neutrophils admixed with some red cells.						
+435	lobar pneumonia, grey hepatisation stage. a, the sectioned surface of the lung shows grey-brown, firm area of consolidation (liver-like) affecting a lobe (arrow). b, the cellular exudates in the alveolar lumina is lying separated from the septal walls  by a clear space. the infiltrate in the lumina is composed of neutrophils and macrophages.						
+436	lobar pneumonia, grey hepatisation stage. a, the sectioned surface of the lung shows grey-brown, firm area of consolidation (liver-like) affecting a lobe (arrow). b, the cellular exudates in the alveolar lumina is lying separated from the septal walls  by a clear space. the infiltrate in the lumina is composed of neutrophils and macrophages.						
+437	A, Gross appearance of bronchopneumonia contrasted with that of lobar pneumonia. B, The pleural surface of the specimen of the lung shows serofibrinous exudate. The sectioned surface shows multiple, small, grey-brown, firm, patchy areas of consolidation around bronchioles (arrow). while the intervening lung is spongy.						
+438	microscopic appearance of bronchopneumonia. the bronchioles as well as the adjacent alveoli are filled with exudate consisting chiefly of neutrophils. the alveolar septa are thickened due to congested capillaries and neutrophilic infiltrate. 						
+439	microscopic appearance of bronchopneumonia. the bronchioles as well as the adjacent alveoli are filled with exudate consisting chiefly of neutrophils. the alveolar septa are thickened due to congested capillaries and neutrophilic infiltrate. 						
+440	microscopic appearance of interstitial pneumonitis(viral pneumonia). there is necrotising bronchiolitis, reactive hyperplasiaof alveolar epithelial cells, some having nuclear inclusions, and there is interstitial inflammation.						
+441	Common locations of lung abscess. A, Primary lung abscess-mostly single, large, commonly due to aspiration, located most frequently in the lower part of right upper lobe or apex of right lower lobe. B, Secondary lung abscesses-mostly multiple, small, most commonly post-pneumonic or following septic embolism.						
+444	Aspergillosis lung. A, Acute angled septate hyphae lying in necrotic debris and acute inflammatory exudates in lung abscess. B, Organisms, Apergillus flavus, are best identified with a special stain for fungi, Gomory's methenamine silver (GMS).						
+445	Aspergillosis lung. A, Acute angled septate hyphae lying in necrotic debris and acute inflammatory exudates in lung abscess. B, Organisms, Apergillus flavus, are best identified with a special stain for fungi, Gomory's methenamine silver (GMS).						
+446	diagrammatic representation of increased reid's index in chronic bronchitis.						
+447	bullous emphysema. a, diagrammatic view as seen on the external surface of the lung. b, sectioned lung showing air-filled sacs.						
+448	pathogenesis of alveolar wall destruction in emphysema by protease-antiprotease mechanism.					
+	
+449	the anatomic regions of involvement in an acinus in major forms of emphysema.						
+450	panacinar (panlobular) emphysema showing involvement of the entire lobules and whole of acinus.		
+				
+451	panacinar (panlobular) emphysema showing involvement of the entire lobules and whole of acinus.		
+				
+452	Diagrammatic appearance of Curschmann's spiral and Charcot-Leyden crystals found in mucus plugs in patients with bronchial asthma.						
+453	types of bronchial dilatations in bronchiectasis. 						
+454	bronchiectasis of the lung. sectioned surface shows honey-combed appearance of the lung in the lower lobe where many thick-walled dilated cavities with cartilaginous wall are seen (arrow).			
+			
+455	Microscopic appearance of a dilated distal bronchiole in bronchiectasis. The bronchial wall is thickened and infiltrated by acute and chronic inflammatory cells. The mucosa is sloughed off at places with exudate of muco-pus in the lumen (arrow).						
+456	Microscopic appearance of a dilated distal bronchiole in bronchiectasis. The bronchial wall is thickened and infiltrated by acute and chronic inflammatory cells. The mucosa is sloughed off at places with exudate of muco-pus in the lumen (arrow).						
+457	schematic evolution of interstitial lung disease (ild).						
+458	Pathogenesis of three common forms of pneumoconiosis. A, Coal-workers' pneumoconiosis. The macrophages phagocytose large amount of coal dust particles which are then passed into the interstitial tissue of the lung and aggregate around respiratory bronchiole and cause focal dust emphysema. B, Silicosis. The tiny silica particles are toxic to macrophages. The dead macrophages release fibrogenic factor and eventually result in silicotic nodule. C, Asbestosis. Asbestos fibres initiate lot of interstitial fibrosis and also form asbestos bodies.			
+			
+459	Gross appearance of the lungs in simple coal-workers' pneumoconiosis (A) and progressive massive fibrosis (B).
+
+460	Histologic appearance of the lung in coal-workers'pneumoconiosis. Coal macules composed of aggregates of dust-laden macrophages and collagens are seen surrounding respiratory bronchioles. The alveoli and respiratory bronchioles surrounding the coal macule are distended.		
+				
+461	gross appearance of the lung in silicosis, diagrammatic appearance. 						
+462	Microscopic picture of the lung in silicosis. The silicotic nodule consists of hyaline centre surrounded by concentric layers of collagen which are further enclosed by fibroblasts and dust-laden macrophages. Polarising microscopy in photomicrograph on right shows bright fibres of silica.					
+	
+463	Microscopic picture of the lung in silicosis. The silicotic nodule consists of hyaline centre surrounded by concentric layers of collagen which are further enclosed by fibroblasts and dust-laden macrophages. Polarising microscopy in photomicrograph on right shows bright fibres of silica.				
+		
+464	gross appearance of the lung in asbestosis, diagrammatic appearance.						
+465	microscopic appearance of asbestos body. an asbestos body is an asbestos fibre coated with glycoprotein and haemosiderin giving it beaded or dumbbell-shaped appearance with bulbous ends.	
+					
+466	schematic representation of sequential development of squamous cell carcinoma of the lung. 	
+					
+467	the two main gross patterns of bronchogenic carcinoma.						
+468	Squamous cell carcinoma lung, hilar type. Sectioned surface shows grey-white fleshy tumour in the bronchus at its bifurcation and occluding the lumen partly (arrow). The tumour is seen extending directly into adjacent lung parenchyma and hilar nodes.						
+469	Squamous cell carcinoma of the lung. Islands of invading malignant squamous cells are seen. A few well-developed cell nests with keratinisation are evident.						
+470	Squamous cell carcinoma of the lung. Islands of invading malignant squamous cells are seen. A few well-developed cell nests with keratinisation are evident.						
+471	Oat cell carcinoma of the lung. The tumour cells are arranged in sheets, cords or aggregates and at places form pseudorosettes. The individual tumour cells are small, uniform, lymphocyte-like with scanty cytoplasm.			
+			
+472	Oat cell carcinoma of the lung. The tumour cells are arranged in sheets, cords or aggregates and at places form pseudorosettes. The individual tumour cells are small, uniform, lymphocyte-like with scanty cytoplasm.		
+				
+473	Bronchioloalveolar carcinoma. The alveolar walls are lined by cuboidal to tall columnar and mucin-secreting tumour cells with papillary growth pattern.						
+474	Bronchioloalveolar carcinoma. The alveolar walls are lined by cuboidal to tall columnar and mucin-secreting tumour cells with papillary growth pattern.						
+475	central carcinoid of the lung. the tumour shows a characteristic nested of cells separated by fibrovascular septa. these nests are composed of uniform cuboidal cells having granular cytoplasm. 		
+				
+476	metastatic deposits in the lung.  large parts of the lung parenchyma are replaced by multiple, variable-sized, circumscribed nodular masses which are grey-white in colour. some of these show  areas of haemorrhage and necrosis.						
+477	Malignant mesothelioma, showing biphasic pattern of growth.						
+478	Malignant (diffuse) mesothelioma, gross appearance. The tumour is seen to form a thick, white, fleshy coat over the parietal and visceral surfaces.						
+480	schematic diagram of longitudinal section of the eyeball.						
+481	chalazion of the eyelid. there is presence of a lipogranuloma having central pool of fat and surrounded by mixed inflammatory cells and foreign body type multinucleated giant cells.			
+			
+482	schematic diagram showing the effects of diabetes mellitus on eye in causing blindness. 				
+		
+483	ocular lesions in hypertension.	
+					
+484	sebaceous carcinoma. the tumour cells are arranged as lobules with peripheral basaloid cells and pale cells in the centre. the cells have sebaceous differentiation appreciated by foamy, vacuolated  cytoplasm.
+						
+485	uveal melanoma. the tumour cells are epithelioid in appearance having prominent nucleoli and contain black finely granular melanin pigment in the cytoplasm.						
+486	choroidal melanoma appearing as a pigmented mass pushing the retina forward over it.						
+487	retinoblastoma, showing white mass growing extensively within the posterior part of the eye.					
+	
+488	retinoblastoma. the tumour arising from the retina (arrow) shows undifferentiated retinal cells and the typical rosettes. 
+						
+489	cholesteatoma middle ear. there is chronic inflammatory granulation tissue and foreign body giant cells around the cholesterol clefts and some pink keratinous material. 						
+490	rhinosporidiosis in a nasal polyp. the spores are present in sporangia as well as are intermingled in the inflammatory cell infiltrate.						
+491	rhinosporidiosis in a nasal polyp. the spores are present in sporangia as well as are intermingled in the inflammatory cell infiltrate.						
+492	Allergic polyp nose. The overlying mucosa is covered partly by respiratory and partly by squamous metaplastic epithelium. The underlying stroma is oedematous and contains inflammatory cells with prominence of eosinophils.						
+493	Angiofibroma nose. There is admixture of thin-walled blood vessels and spindled stroma. The blood vessels are variable-sized, some having incomplete muscle coat and there is absence of elastic tissue. The stroma has stellate fibroblasts and mast cells.						
+494	nasopharyngeal carcinoma, non-keratinising. the tumour is composed of undifferentiated anaplastic cells arranged in nests. 						
+495	squamous cell papilloma. there is papillomatosis; papillae are covered with well oriented and orderly layers of squamous cells.		
+				
+496	laryngeal nodule. the lesion has intact surface epithelium. the subepithelium has fibromyxoid appearance and contains proliferating blood vessels some of which are hyalinised.						
+
+497	mucous retention cyst (mucocele). there is inflammatory reaction around extravasated mucus.				
+		
+498	fibrous epulis in gingival.		
+				
+499	leukoplakia oral mucosa. a,   hyperkeratosis type. there is keratosis and orderly arrangement of increased number of layers of stratified mucosa.  b, dysplastic type. the number of layers is increased and the individual cells in layers show features of cytologic atypia and mitosis but there is no invasion across the basement membrane.						
+500	frequency of occurrence of squamous cell carcinomas in the oral cavity. 						
+501	squamous cell (epidermoid) carcinoma of oral cavity, patterns of gross appearance. 						
+502	Oral mucosa showing epithelial dysplasia progressing to invasive squamous cell carcinoma. There is keratosis, irregular stratification, cellular pleomorphism, increased and abnormal mitotic figures and individual cell keratinisation, while a few areas show superficial invasive islands of malignant cells in the subepithelial soft tissues.						
+503	the normal structure of tooth in longitudinal section embedded in the jaw. 						
+504	dental caries. there is complete destruction of enamel, deposition of secondary dentine and evidence of pulpitis.		
+				
+505	Dental (Radicular) cyst. The cyst wall is composed of fibrous tissue and is lined by non-keratinised squamous epithelium. The cyst wall is densely infiltrated by chronic inflammatory cells, chiefly lymphocytes, plasma cells and macrophages.						
+506	Dentigerous (Follicular) cyst. The cyst is composed of thin fibrous tissue wall and is lined by stratified squamous epithelium. A partly formed unerupted tooth is also seen in the wall. Inflammatory changes are conspicuously absent.						
+507	ameloblastoma, follicular and plexiform patterns. epithelial follicles are composed of central area of stellate cells and peripheral layer of cuboidal or columnar cells. plexiform areas show irregular plexiform masses and network of strands of epithelial cells. a few areas show central cystic change.						
+508	ameloblastoma, follicular and plexiform patterns. epithelial follicles are composed of central area of stellate cells and peripheral layer of cuboidal or columnar cells. plexiform areas show irregular plexiform masses and network of strands of epithelial cells. a few areas show central cystic change.						
+509	lesions in mumps. 			
+			
+510	Pleomorphic adenoma (mixed salivary tumour) of the parotid gland. A, Diagrammatic location. B, Sectioned surface of the parotid gland shows lobules of grey-white circumscribed tumour having semitranslucent parenchyma (arrow).						
+511	Pleomorphic adenoma. The epithelial element is comprised of ducts, acini, tubules, sheets and strands of cuboidal and myoepithelial cells. These are seen randomly admixed with mesenchymal elements composed of pseudocartilage which is the matrix of myxoid, chondroid and mucoid material.		
+				
+512	Pleomorphic adenoma. The epithelial element is comprised of ducts, acini, tubules, sheets and strands of cuboidal and myoepithelial cells. These are seen randomly admixed with mesenchymal elements composed of pseudocartilage which is the matrix of myxoid, chondroid and mucoid material.		
+				
+513	Mucoepidermoid carcinoma. The tumour shows combination of mucinous, squamous and intermediate cells and having infiltrative border.						
+514	Warthin's tumour, showing eosinophilic epithelium forming glandular and papillary, cystic pattern with intervening stroma of lymphoid tissue.						
+515	Warthin's tumour, showing eosinophilic epithelium forming glandular and papillary, cystic pattern with intervening stroma of lymphoid tissue.						
+516	adenoid cystic carcinoma. it shows nests of tumour cells having fenestrations containing basophilic material.	
+					
+517	oesophageal webs and rings.
+						
+518	patterns of hiatus hernia.
+						
+519	Barrett's oesophagus. Part of the oesophagus which is normally lined by squamous epithelium undergoes metaplastic change to columnar epithelium of intestinal type.						
+520	A, Carcinoma oesophagus-sites of predilection for squamous cell carcinoma and adenocarcinoma. B, Gross patterns of squamous cell carcinoma of the oesophagus.						
+521	Squamous cell carcinoma oesophagus. A, Gross appearance. The tubular structure has thick muscle in its wall and has longitudinal mucosal folds. There is a concentric circumferential thickening in the middle (arrow) causing narrowing of the lumen (arrow). The mucosal surface is ulcerated. B, Photomicrograph shows whorls of anaplastic squamous cells invading the underlying soft tissues.	
+					
+522	Anatomical subdivisions of the stomach correlated with histological appearance of gastric mucosa in different regions. D1, D2, D3 and D4 are the first to fourth parts of the duodenum.				
+		
+523	Pyloric stenosis, infantile type. Longitudinal and transverse section of the stomach showing hypertrophy of the circular layer of the muscularis in the pyloric sphincter.		
+				
+524	Histologic appearance of H. pylori chronic gastritis. A, Diagrammatic representation. B, H&E stained section. C, Demonstration of H. pylori in Giemsa stain.						
+525	consequences of long-term h. pylori gastritis.						
+526	a, chronic atrophic gastritis (right) contrasted with normal pyloric mucosa (left). there is marked gastric atrophy with disappearance of gastric glands and appearance of goblet cells (intestinal metaplasia). b, photomicrograph showing chronic atrophic gastritis with intestinal metaplasia.		
+				
+527	Benign chronic peptic ulcer. Partial gastrectomy specimen showing a punched out round to oval ulcer on the mucosa, about 1 cm in diameter (arrow) and penetrating into muscularis layer.			
+			
+528	 distribution of peptic ulcers.	
+					
+529	chronic gastric ulcer (a) contrasted with malignant gastric ulcer (b). 						
+530	Chronic peptic ulcer. Histologic zones of the ulcer are illustrated in the diagram. The photomicrograph on right shows necrotic debris, ulceration and inflammation on the mucosal surface.				
+		
+531	Chronic peptic ulcer. Histologic zones of the ulcer are illustrated in the diagram. The photomicrograph on right shows necrotic debris, ulceration and inflammation on the mucosal surface.			
+			
+532	Distribution of gastric carcinoma in the anatomical subdivisions of the stomach. The serial numbers in the figure indicate the order of frequency of occurrence of gastric cancer.					
+	
+533	diagrammatic representation of gross patterns of early gastric carcinoma.						
+534	classifications of gastric carcinomas. a, conventional classification, showing correlation of the macroscopic subtypes with the main histological patterns. b, classification based on the depth of invasion by the tumour.  						
+535	gastric carcinoma, gross appearance of subtypes and their corresponding dominant histological patterns.			
+			
+536	gastric carcinoma, gross appearance of subtypes and their corresponding dominant histological patterns.		
+				
+537	A, Ulcerative carcinoma stomach. The luminal surface of the stomach in the region of pyloric canal shows an elevated irregular growth with ulcerated surface and raised margins. B, Malignant cells forming irregular glands with stratification are seen invading the layers of the stomach wall. C, Linitis plastica. The wall of the stomach in the region of pyloric canal is markedly thickened and fibrotic while the mucosal folds are lost. D, Microscopy shows characteristic signet ring tumour cells having abundant mucinous cytoplasm positive for mucicarmine (inbox). The stroma is desmoplastic.						
+538	Meckel's diverticulum. A, Common location and gross appearance. B, Resected segment of the small intestine shows an outpouching which on section is seen communicating with the intestinal lumen. The lumen contains necrotic debris.						
+539	Meckel's diverticulum. A, Common location and gross appearance. B, Resected segment of the small intestine shows an outpouching which on section is seen communicating with the intestinal lumen. The lumen contains necrotic debris.						
+540	ileocaecal intussusception.	
+					
+541	schematic diagram to show the three types of ischaemic bowel disease depending upon the extent of involvement.		
+				
+542	Haemorrhagic infarct of the small intestine. The infarcted area is swollen, dark in colour and coated with fibrinous exudate. A sharp line of demarcation separates infarcted area from the normal bowel (arrow).
+						
+543	Infarct small intestine, microscopic appearance. The mucosa in the infarcted area shows coagulative necrosis and submucosal haemorrhages: muscularis is also partly affected. Inflammatory cell infiltration is marked at the line of demarcation between the infarcted and normal bowel.			
+			
+544	Crohn's disease of the terminal ileum. A, The lesions are characteristically segmental with intervening uninvolved 'skip areas'. The bowel wall is thickened and the lumen narrowed, giving hose-pipe appearance. Serpiginous ulcers, some deep fissures and swollen intervening surviving mucosa giving 'cobblestone appearance', are present. B, The specimen of small intestine is shown in longitudinal section along with a segment in cross section. External surface shows increased mesenteric fat, thickened wall and narrow lumen. Luminal surface of longitudinal cut section shows segment of thickened wall with narrow lumen which is better appreciated in cross section (arrow) while intervening areas of the bowel are uninvolved or skipped.
+						
+545	Crohn's disease of the terminal ileum. A, The lesions are characteristically segmental with intervening uninvolved 'skip areas'. The bowel wall is thickened and the lumen narrowed, giving hose-pipe appearance. Serpiginous ulcers, some deep fissures and swollen intervening surviving mucosa giving 'cobblestone appearance', are present. B, The specimen of small intestine is shown in longitudinal section along with a segment in cross section. External surface shows increased mesenteric fat, thickened wall and narrow lumen. Luminal surface of longitudinal cut section shows segment of thickened wall with narrow lumen which is better appreciated in cross section (arrow) while intervening areas of the bowel are uninvolved or skipped.	
+					
+546	Crohn's disease of the ileum. The histological features present are: transmural chronic inflammatory cell infiltration, deep fissures into the bowel wall, submucosal widening due to oedema, some prominent lymphoid follicles and a few non-caseating epithelioid cell granulomas in the bowel wall.
+						
+547	Ulcerative colitis. Continuous involvement of the rectum and colon without any uninvolved skip areas. The ulcers are superficial with intervening inflammatory pseudopolyps. The lumen is narrow and the haustral folds are lost giving 'garden-hose appearance'.					
+	
+548	Crohn's disease of the ileum. The histological features present are: transmural chronic inflammatory cell infiltration, deep fissures into the bowel wall, submucosal widening due to oedema, some prominent lymphoid follicles and a few non-caseating epithelioid cell granulomas in the bowel wall.	
+					
+549	Ulcerative colitis in active phase. The microscopic features seen are superficial ulcerations, with mucosal infiltration by inflammatory cells and a 'crypt abscess'.						
+550	Ulcerative colitis in active phase. The microscopic features seen are superficial ulcerations, with mucosal infiltration by inflammatory cells and a 'crypt abscess'.						
+551	intestinal tuberculosis, three patterns. 						
+552	Intestinal tuberculosis. A, The external surface of small intestine shows stricture and a lymph node in section having caseation necrosis (arrows). B, The lumen shows characteristic transverse ulcers and two strictures (arrow). The wall of intestine in the area of narrowed lumen is thickened. C, Microscopy of intestine shows caseating epithelioid cell granulomas in the intestinal wall.						
+553	a, typhoid ulcers in the small intestine appear characteristically oval with their long axis parallel to the long axis of the bowel. b, blood picture in typhoid fever showing neutropenia and relative lymphocytosis.		
+				
+554	Amoebic ulcers large intestine. A, The luminal surface shows multiple ulcers some of which are deep and are flask-shaped with narrow neck and broad base (arrow) containing necrotic tissue and undermined margins. B, Trophozoites of Entamoeba histolytica are seen at the margin of ulcer (arrow).				
+		
+555	Amoebic ulcers large intestine. A, The luminal surface shows multiple ulcers some of which are deep and are flask-shaped with narrow neck and broad base (arrow) containing necrotic tissue and undermined margins. B, Trophozoites of Entamoeba histolytica are seen at the margin of ulcer (arrow).				
+		
+556	jejunal biopsy diagrammatic appearance in malabsorption syndrome.						
+557	a, partial villus atrophy. there is shortening and blunting of the villi with reduction in their height. there is crypt hyperplasia. b, subtotal villous atrophy. there is near total flattening of the villi and crypt hyperplasia.						
+558	lymphoma small intestine. the polypoid growth is seen projecting into lumen while the covering mucosa is ulcerated.			
+			
+559	microscopic appearance showing solid masses and trabeculae of uniform, monotonous, small cells with palisading of the peripheral cells.						
+560	carcinoid tumour. gross appearance at common locations in longitudinal section.						
+561	microscopic appearance showing solid masses and trabeculae of uniform, monotonous, small cells with palisading of the peripheral cells.						
+562	Acute appendicitis. Microscopic appearance showing diagnostic neutrophilic infiltration into the muscularis. Other changes present are necrosis of mucosa and periappendicitis.					
+	
+563	Acute appendicitis. Microscopic appearance showing diagnostic neutrophilic infiltration into the muscularis. Other changes present are necrosis of mucosa and periappendicitis.				
+		
+564	acute appendicitis. gross appearance of longitudinally opened appendix showing impacted faecolith in the lumen and exudate on the serosa. 						
+565	hirschsprung's disease, diagrammatic representation of the pathologic changes. 						
+566	Hamartomatous polyps: Peutz-Jeghers polyp.						
+567	Hamartomatous polyps: Peutz-Jeghers polyp.						
+568	juvenile polyp.				
+		
+569	juvenile polyp.				
+		
+570	adenomas (neoplastic polyps)-three main varieties.						
+571	familial polyposis coli. the mucosal surface is straddled with multiple polyoid structures (arrow) of varying sizes many of which are pedunculated.						
+572	Adenoma-carcinoma sequence-schematic diagram of molecular and morphologic evolution.						
+
+573	distribution of the primary colorectal cancer. 						
+574	Gross appearance of colorectal carcinoma. A, Right-sided growth-fungating polypoid carcinoma showing cauliflower-like growth projecting into the lumen. B, Left-sided growth-napkin-ring configuration with spread of growth into the bowel wall.						
+575	colonic adenocarcinoma. a, moderately differentiated. b, mucin-secreting adenocarcinoma. 					
+	
+576	colonic adenocarcinoma. a, moderately differentiated. b, mucin-secreting adenocarcinoma. 					
+	
+577	Anorectal carcinoma. The anorectal margin shows an ulcerated mucosa with thickened wall (arrow). The sectioned surface of rectal wall is grey-white and fleshy due to infiltration by the tumour.				
+		
+578	Pathologic staging according to Astler-Coller system. (Also see facing Table 20.12).						
+
+580	anatomy of the liver and its relationship to the gallbladder, pancreas and duodenum. 					
+	
+581	Histology of hepatic lobule. The hexagonal or pyramidal structure with central vein and peripheral 4 to 5 portal triads is termed the classical lobule. The functional divisions of the lobule into 3 zones are shown by circles.						
+582	schematic representation of hepatic phase of bilirubin transport.						
+583	Salient features in morphology of liver in intra- and extrahepatic cholestasis. A, Intrahepatic cholestasis is characterised by elongated bile plugs in the canaliculi of hepatocytes at the periphery of the lobule. B, Extrahepatic cholestasis shows characteristic bile lakes due to rupture of canaliculi in the hepatocytes in the centrilobular area.		
+				
+584	complications of hepatic failure. 	
+					
+585	sequence of appearance of antibodies to HAV. 						
+586	genomic structure of hepatitis b virus (dane particle).						
+587	sequence of serologic and viral markers in acute hepatitis b. 						
+588	diagrammatic structure of hepatitis c virus.						
+589	consequences of coinfection versus superinfection in combined HDV-HBV infection. 						
+590	sequence of serologic and viral markers of HCV infection.						
+591	acute viral hepatitis. the predominant histologic changes are: variable degree of necrosis of hepatocytes, most marked in zone 3 (centrilobular); and mononuclear cellular infiltrate in the lobule. mild degree of liver cell necrosis is seen as ballooning degeneration while acidophilic councilman bodies (inbox) are indicative of more severe liver cell injury. 				
+		
+592	Chronic hepatitis. Diagrammatic representation of pathologic changes in chronic hepatitis (B) contrasted with normal morphology (A). Photomicrograph on right (C) shows stellate-shaped portal triad, with extension of fibrous spurs into lobules. The portal tract is expanded due to increased lymphomononuclear inflammatory cells which are seen to breach the limiting plate (i.e. hepatocytes at the interface of portal tract and lobule are destroyed).					
+	
+593	fulminant hepatitis. there is wiping out of liver lobules with only collapsed reticulin framework left out in their place, high lighted by reticulin stain (right photomicrograph). there is no significant inflammation or fibrosis. 						
+594	Clinicopathologic course of HBV and HCV infection.						
+595	Amoebic liver abscess is commonly solitary and its wall is irregular and necrotic.						
+596	gross appearance of pyogenic abscesses in the liver. 						
+597	miliary tuberculosis liver. the hepatic parenchyma shows epithelioid granulomas with small areas of central necrosis and surrounded peripherally by langhans' giant cells and lymphocytes.				
+		
+598	hydatid cyst in the liver. the cyst wall is composed of whitish membrane resembling the membrane of a hard boiled egg.		
+				
+599	microscopy shows three layers in the wall of hydatid cyst. inbox in the right photomicrograph shows a scolex with a row of hooklets. 						
+600	Metabolism of ethanol in the liver. Thickness and intensity of colour of arrows on left side of figure corresponds to extent of metabolic pathway followed (ADH = alcohol dehydrogenase; ALDH or ACDH = hepatic acetaldehyde dehydrogenase; NAD = nicotinamide adenine dinucleotide; NADH = reduced NAD).		
+				
+601	Pathogenesis of alcoholic liver disease.						
+602	Fatty liver (alcoholic steatosis). Most of the hepatocytes are distended with large lipid vacuoles with peripherally displaced nuclei.						
+603	Alcoholic hepatitis. Liver cells show ballooning degeneration and necrosis with some containing Mallory's hyalin (Inbox). Fatty change and clusters of neutrophils are also present.					
+	
+604	Alcoholic cirrhosis, microscopic appearance. It shows nearly uniform-sized micronodules, devoid of central veins and having thick fibrous septa dividing them. There is minimal inflammation and some reactive bile duct proliferation in the septa.						
+605	Alcoholic cirrhosis, showing the typical micronodular pattern in gross specimen. There is diffuse nodularity (nodules less than 3 mm diameter) on sectioned surface of the liver. 						
+
+606	Post-necrotic cirrhosis, showing the typical irregular macronodular pattern (nodules larger than 3 mm diameter). Externally the liver is small, distorted and irregularly scarred.				
+		
+607	Post-necrotic cirrhosis. Fibrous septa dividing the hepatic parenchyma into nodules are thick and contain prominent mononuclear inflammatory cell infiltrate and bile ductular hyperplasia. A few intact hepatic lobules remain.						
+608	Primary biliary cirrhosis, diagrammatic representation. There are fibrous scars dividing the hepatic parenchyma into the micronodules. The fibrous septa contain prominent lymphoid infiltrate and proliferated bile ducts. Many of the hepatocytes contain elongated bile plugs.					
+	
+609	Major clinical consequences of portal hypertension.						
+610	Mechanisms of ascites formation in cirrhosis.						
+611	Cavernous haemangioma of the liver.		
+				
+612	Hepatocellular carcinoma. Sectioned surface shows a single, large mass (arrow) with irregular borders and having central areas of necrosis, while rest of the hepatic parenchyma in the upper part of the picture shows many nodules of variable sizes owing to co-existent macronodular cirrhosis.			
+			
+613	Macroscopic patterns of hepatocellular carcinoma.						
+614	Fibrolamellar carcinoma liver.	
+					
+615	Hepatocellular carcinoma, typical microscopic pattern. The tumour cells resembling hepatocytes show pleomorphism and are seen forming 2-8 cell wide trabeculae which are separated by endothelium-lined sinusoidal spaces.						
+616	Metastatic tumour deposits in the liver as seen on sectioned surface. Characteristic features include multiple, variable-sized, nodular masses, often under the capsule, producing umbilication on the surface.			
+			
+617	Metastatic deposits from undifferentiated sarcoma in the liver.						
+618	Schematic pathogenesis of gallstone formation. (HMGCoAR = hydroxy methyl glutaryl-coenzyme A reductase; 7alpha-OHase = cholesterol 7 alpha-OHase hydroxylase; MDR3 = multidrug resistanceassociated protein 3).			
+			
+619	Cholesterolosis of the gallbladder. The lamina propria of the mucosa shows foamy macrophages.						
+
+620	Mixed and combined gallstones.
+						
+621	Pure gallstones of various types.
+						
+622	Chronic cholecystitis with cholelithiasis. A, Mixed gallstones, diagrammatic view. The wall of the gallbladder is thickened and the lumen is packed with well-fitting, multiple, multi-faceted, mixed gallstones. B, Chronic cholecystitis with cholesterol cholelithiasis. The wall of gallbladder is thickened. The lumen contains a single, large, oval, and hard yellow-white gallstone.	
+					
+623	Chronic cholecystitis, microscopic appearance. There is penetration of epithelium-lined spaces into the gallbladder wall (RokitanskyAschoff sinus) in an area. There is subepithelial and subserosal fibrosis and hypertrophy of muscularis. Mononuclear inflammatory cell infiltrate is present in subepithelial and perimuscular layers.						
+624	Carcinoma gallbladder. The lumen of the gallbladder contains irregular, friable papillary growth arising from mucosa (arrow). Two multi-faceted gallstones (mixed) are also present in the lumen.		
+				
+625	Frequency of cancer in the biliary system.						
+626	Complications of chronic pancreatitis.
+						
+627	Chronic pancreatitis. There is destruction of acinar tissue and presence of dystrophic calcification. The necrotic tissue is surrounded by mixed inflammatory infiltrate with granulation tissue formation.	
+					
+628	Distribution of carcinoma of the pancreas (numbered serially) and its major effects.						
+
+630	Cross-section of the kidney showing gross structures.						
+631	Cross-section of the kidney showing arterial blood supply.						
+632	A schematic illustration of the structure of a nephron (in longitudinal section) and associated blood supply.				
+		
+633	Structure of a nephron.				
+		
+634	Ultrastructure of glomerular filtration barrier.						
+635	Cystic diseases of kidney.		
+				
+636	Renal cystic dysplasia. There are cysts lined by flattened epithelium while the intervening parenchyma consists of primitive connective tissue and cartilage.						
+637	Adult (autosomal dominant) polycystic kidney disease (ADPKD). The kidney is enlarged and heavy. Sectioned surface shows loss of demarcation between cortex and medulla and replacement of the entire renal parenchyma by cyst s varying in diameter from a few millimeters to 4-5 cm. These cysts are not communicating with the pelvicalyceal system. The renal pelvis and calyces are distorted due to cystic change.						
+638	Polycystic kidney disease. Diagrammatic representation of comparison of gross appearance of the two main forms.		
+				
+639	Diagrammatic representation of ultrastructure of a portion of glomerular lobule. It shows three patterns of irregular or granu lar glomerular deposits in immune-complex disease.					
+	
+640	Flea-bitten kidney. The kidney is enlarged in size and weight. The cortex shows tiny petechial haemorrhages visible through the capsule (arrow).						
+641	Acute post-streptococcal GN, light microscopic appearance. There is increased cellularity due to proliferation of mesangial cels, endothelial cells and some epithelial cells and infiltration of the tuft by neutrophils and monocytes.						
+642	 Acute glomerulonephritis, diagrammatic representation of ultrastructure of a portion of glomerular lobule showing characteristic electron-dense irregular deposits or 'humps' on the epithelial side of the GBM.		
+				
+643	RPGN (post-infectious type), light microscopic appearance. There are crescents in Bowman's space forming adhesions between the glomerular tuft and Bowman's capsule. The tuft shows hypercellularity and leucocytic infiltration.						
+644	RPGN, diagrammatic representation of ultrastructure of a portion of glomerular lobule showing epithelial crescent formation and subepithelial granular deposits.						
+645	Minimal change disease. A, Light microscopy shows a normal glomerulus while tubules show cytoplasmic vacuolation and proteinaceous material. B, Diagrammatic representation of ultrastructure of a portion of glomerular lobule showing diffuse fusion or flattening of foot processes of visceral epithelial cells (podocytes). The GBM is normal and there are no deposits.			
+			
+646	Membranous GN, light microscopic appearance. Glomeruli are normocellular but the capillary walls are diffusely thickened due to duplication of the GBM.						
+647	Membranous GN, diagrammatic representation of ultrastructure of a portion of glomerular lobule showing subepithelial deposits of electron-dense material so that the basement membrane material protrudes between these deposit s.						
+648	MPGN, diagrammatic representation of ultrastructure of a portion of glomerular lobule showing features of type I (left half) and type II (right half) MPGN. Type I (classic form) shows the characteristic subendothelial electron-dense deposit s, while type II (dense deposit disease) is characterised by intramembranous dense deposit s.						
+649	Membranoproliferative GN, light microscopic appearance. The glomerular tufts show lobulation and mesangial hypercellularity. There is increase in the mesangial matrix between the capillaries. There is widespread thickening of the GBM.						
+650	A, Focal GN. The characteristic feature is the cellular proliferation in some glomeruli and in one or two lobules of the affected glomeruli i.e. focal and segmental proliferative change. B, C, Focal segmental glomerulosclerosis. The features are focal and segmental involvement of the glomeruli by sclerosis and hyalinosis and mesangial hypercellularity.	
+					
+651	End-stage kidney, gross appearance of short contract kidney in chronic glomerulonephritis. The kidney is small and contracted. The capsule is adherent to the cortex and has diffusely granular cortical surface.						
+652	End-stage kidney in chronic GN, light microscopy. Glomerular tufts are acellular and completely hyalinised. Blood vessels in the interstitium are hyalinised and thickened while the interstitium shows fine fibrosis and a few chronic inflammatory cells.						
+653	Diabetic glomerulosclerosis. A, Diffuse lesions. The characteristic features are diffuse involvement of the glomeruli showing thickening of the GBM and diffuse increase in the mesangial matrix with mild proliferation of mesangial cells and exudative lesions (fibrin caps and capsular drops). B, Nodular lesion (Kimmelstiel-Wilson Lesion). There are one or more hyaline nodules within the lobules of glomeruli, surrounded peripherally by glomerular capillaries with thickened walls.
+						
+654	Diabetic nephropathy-nodular (Kimmelstiel-Wilson or KW) lesions.						
+655	Pathogenesis of ATN.
+						
+656	Ischaemic ATN. There is focal necrosis along the nephron involving proximal convoluted tubule (PCT) as well as distal convoluted tubule (DCT). The affected tubules are dilated, their lumina contain casts (hyaline or pigmented haem) and the affected regions are lined by regenerating thin and flat epithelium.						
+657	Toxic ATN. There is extensive necrosis of epithelial cells involving predominantly proximal convoluted tubule (PCT) diffusely. The necrosed cells are desquamated into the tubular lumina and may undergo dystrophic calcification. The tubular lumina cont ain casts (granular) and the regenerating flat epithelium lines the necrosed tubule.						
+658	Pathogenesis of reflux nephropathy.	
+					
+659	Pyonephrosis. The kidney is enlarged and has increased perinephric fat in the hilum. Sectioned surface shows markedly dilated pelvis and calyces having irregular and ragged inner surface and containing necrotic debris and pus.						
+660	The two major types of mechanisms in chronic pyelonephritis. A, Vesicoureteric reflux causing infection of peripheral papillae and consequent scars at the poles of the kidney. B, Obstructive pyelonephritis due to obstruction of the urinary tract causing high pressure backflow of urine and infection of all the papillae and consequent diffuse scarring of the kidney and thinning of the cortex.						
+661	Small contracted kidney in chronic pyelonephritis with calyectasis. A, Diagrammatic representation. B, External surface of small and contracted kidney. The kidney is small in size and contracted. The capsule is adherent to the cortex and has irregular scars on the surface. C, Sectioned surface shows dilated pelvi-calyceal system with atrophied and thin peripheral cortex and increased hilar fat extending inside.						
+662	Chronic pyelonephritis. The scarred area shows atrophy of some tubules and dilatation of others which contain colloid casts (thyroidisation). The tubules are surrounded by abundant fibrous tissue and chronic interstitial inflammatory reaction. The blood vessels included are thick-walled and the glomeruli show periglomerular fibrosis.						
+663	The renin-angiotensin mechanism.
+						
+664	Small, contracted kidney in chronic hypertension (benign nephrosclerosis). The kidney is small and contracted. The capsule is adherent to the cortex and has granular depressed scars on the surface.		
+				
+665	Microscopic changes in kidney in hypertension. A, Benign nephrosclerosis. The vascular changes are hyaline arteriolosclerosis and intimal thickening of small blood vessels in the glomerular tuft. The parenchymal changes include sclerosed glomeruli, tubular atrophy and fine interstitial fibrosis. B, Malignant nephrosclerosis. The vascular changes are necrotising arteriolitis and hyperplastic intimal sclerosis or onion-skin proliferation. The parenchymal changes are tubular loss, fine interstitial fibrosis and foci of infarction necrosis.		
+				
+666	Microscopic changes in kidney in hypertension. A, Benign nephrosclerosis. The vascular changes are hyaline arteriolosclerosis and intimal thickening of small blood vessels in the glomerular tuft. The parenchymal changes include sclerosed glomeruli, tubular atrophy and fine interstitial fibrosis. B, Malignant nephrosclerosis. The vascular changes are necrotising arteriolitis and hyperplastic intimal sclerosis or onion-skin proliferation. The parenchymal changes are tubular loss, fine interstitial fibrosis and foci of infarction necrosis.	
+					
+667	Malignant nephrosclerosis. The kidney is enlarged in size and weight. The cortex shows characteristic  'flea bitten kidney' due to tiny petechial haemorrhages on the surface.			
+			
+668	Malignant nephrosclerosis. The kidney is enlarged in size and weight. The cortex shows characteristic  'flea bitten kidney' due to tiny petechial haemorrhages on the surface.				
+		
+669	Staghorn renal stone with chronic pyelonephritis.The kidney is enlarged and heavy. The capsule is adherent to the cortex and has irregular scars on the surface. Sectioned surface shows dilated pelvicalyceal system with atrophied and thin peripheral cortex. The pelvis of the kidney contains a single, large, soft yellow white stone taking the contour of the pelvi-calyceal system (arrow).	
+					
+670	Causes of obstructive uropathy.			
+			
+672	Hydronephrosis, stages in its evolution.						
+673	Hydronephrosis with nephrolithiasis. The kidney is enlarged and heavy. On cut section, the renal pelvis and calyces are dilated and cystic and contain a large stone in the pelvis of the kidney (arrow). The cystic change is seen to extend into renal p arenchyma, compressing the cortex as a thin rim at the periphery . Unlike polycystic kidney, however, these cysts are communicating with the pelvi-calyceal system.						
+674	Renal cell carcinoma. The tumour shows solid masses and acini of uniform-appearing tumour cells. Clear cells predominate in the tumour while the stroma is composed of fine and delicate fibrous tissue.					
+	
+675	Renal cell carcinoma. The upper pole of the kidney shows a large and tan mass while rest of the kidney has reniform contour. Sectioned surface shows irregular, circumscribed, yellowish mass with areas of haemorrhages and necrosis. The residual kidney is compressed on one side and shows obliterated calyces and renal pelvis.						
+676	Renal cell carcinoma. The upper pole of the kidney shows a large and tan mass while rest of the kidney has reniform contour. Sectioned surface shows irregular, circumscribed, yellowish mass with areas of haemorrhages and necrosis. The residual kidney is compressed on one side and shows obliterated calyces and renal pelvis.						
+677	Nephroblastoma (W ilms'tumour). The kidney is enlarged and has ovoid and nodular appearance. The sectioned surface shows replacement of almost whole kidney by the tumour leaving a thin strip of compressed renal tissue at lower end (arrow). Cut section of the tumour is gray white, fleshy and has small areas of haemorrhages and necrosis.						
+678	Wilms' tumour. There is predominance of small round to spindled sarcomatoid tumour cells. A few abortive tubules and poorlyformed glomerular structures are present in it.						
+679	Gross patterns of epithelial bladder tumours.						
+680	Carcinoma urinary bladder . The mucosal surface shows papillary tumour floating in the lumen (arrow).		
+				
+681	Transitional cell carcinoma, grade II. There is increase in the number of layers of epithelium. The cells are still recognisable as of transitional origin and show features of anaplasia.	
+					
+682	Microscopic appearance of normal testis (A) contrasted with that of cryptorchid testis (B).				
+		
+683	Tuberculous epididymo-orchitis. The interstitium contains several epithelioid cell granulomas with central areas of caseation necrosis. These granulomas are surrounded by Langhans'giant cells and mantle of lymphocytes.	
+					
+684	Haematocele testis. Sectioned surface of the sac shows thick wall coated internally by brownish, tan and necrotic material which is organised blood clot (arrow).						
+685	Schematic diagram showing histogenesis of testicular tumours.						
+686	Seminoma testis. The testis is enlarged but without distorting its contour. Sectioned surface shows replacement of the entire testis by lobulated, homogeneous, grey-white mass.						
+
+687	Seminoma testis. Microscopy of the tumour shows lobules of monomorphic seminoma cells separated by delicate fibrous stroma containing lymphocytic infiltration.						
+688	Yolk sac tumour testis. The tumour has microcystic pattern and has highly anaplastic tumour cells. Several characteristic Schiller-Duval bodies are present. Inset shows intra- and extracellular hyaline globules.						
+689	Immature teratoma testis. The testis is enlarged and nodular distorting the testicular contour. Sectioned surface shows replacement of the entire testis by variegated mass having grey-white solid areas, cystic areas, honey-combed areas and foci of cartilage and bone.						
+
+690	Immature teratoma testis. Microscopy shows a variety of incompletely differentiated tissue elements.			
+			
+691	Squamous cell carcinoma penis. Microscopy shows whorls of malignant squamous cells with central keratin pearls.			
+			
+692	Carcinoma of the penis. Diagrammatic representation of flat-ulcerating (A) and cauliflower papillary (B) patterns of growth at common locations. C, Amputated specimen of the penis shows a cauliflower growth on the coronal sulcus (arrow). The surface of the growth is ulcerated and is chalky-white in appearance.						
+693	Normal prostate, benign nodular hyperplasia and prostatic carcinoma. The nodule in case of benign nodular hyperplasia (B) is located in the inner periurethral part and compresses the prostatic urethra while prostatic carcinoma (C) generally arises in the peripheral glands and, thus, does not compress the urethra.						
+694	Nodular enlargement of the prostate. Sectioned surface of enlarged prostate shows soft to firm, grey-white, nodularity with microcystic areas.						
+695	Nodular hyperplasia of the prostate. There is hyperplasia of fibromuscular elements. There are areas of intra-acinar papillary infoldings (convolutions) lined by two layers of epithelium with basal polarity of nuclei.						
+696	Carcinoma of the prostate. The field shows microacini of small malignant cells infiltrating the prostatic stroma. Inset in the photomicrograph shows perineural invasion by prostatic adenocarcinoma.				
+		
+697	Non-neoplastic epithelial disorders of vulval skin.						
+698	Vulval intraepithelial neoplasia (VIN) lesion (Bowen's disease). There is hyperkeratosis, parakeratosis, acanthosis, koilocytosis and presence of atypical anaplastic cells throughout the entire thickness of the epithelium. Photomicrograph on right under higher magnification shows mitotic figures in the layers of squamous epithelium.				
+		
+699	Endocervical polyp. The surface is covered by endocervical mucosa with squamous metaplasia. The stromal core is composed of dense fibrous tissue which shows nonspecific inflammation.			
+			
+700	Role of human papillomavirus (HPV) in the pathogenesis of cervical neoplasia.						
+701	Cervical intraepithelial neoplasia (CIN) and squamous intraepithelial lesions (SIL). A, Schematic representation of histologic changes (lower part of figure). The grades of CIN-1 or mild dysplasia (L-SIL), CIN-2 (moderate dysplasia) and CIN-3 (severe dysplasia and carcinoma in situ) (together grouped as H-SIL) show progressive increase in the number of abnormal cells parallel to the increasing severity of grades. B, Exfoliative cytologic studies in various grades of cellular changes (upper part of figure).						
+702	Squamous intraepithelial lesions (SIL). A, L-SIL. The smear shows koilocytes having abundant vacuolated cytoplasm and nuclear enlargement (arrow). B, H-SIL. The squamous cells have scanty cytoplasm and markedly hyperchromatic nuclei having irregular nuclear outlines. The background shows numerous PMNs.						
+703	Invasive carcinoma of the cervix common gross appearance is of a fungating or exophytic, cauliflower-like tumour. Gross photograph on right shows replacement of the cervix by irregular greywhite friable growth (arrow) extending into cervical canal as well as distally into attached vaginal cuff.		
+				
+704	Invasive cancer cervix. Common histologic type is epidermoid (squamous cell) carcinoma showing the pattern of a moderatelydifferentiated non-keratinising large cell carcinoma.					
+	
+705	Invasive carcinoma of the cervix common gross appearance is of a fungating or exophytic, cauliflower-like tumour. Gross photograph on right shows replacement of the cervix by irregular greywhite friable growth (arrow) extending into cervical canal as well as distally into attached vaginal cuff.		
+				
+706	Sequential physiologic patterns of endometrium.						
+707	Tuberculous endometritis. The stroma has caseating epithelioid cell granulomas having Langhans'giant cells and peripheral layer of lymphocytes.						
+708	Adenomyosis. The endometrial glands are present deep inside the myometrium (arrow).					
+	
+709	Endometriosis in abdominal scar following caesarean section in the past. Dense fibrocollagenic tissue contains endometrial glands, stroma and evidence of preceding old haemorrhage.					
+	
+710	Three forms of endometrial hyperplasias.						
+711	Endometrial carcinoma. A, B, Diagrammatic representation of the common gross patterns-localised polypoid growth and diffuse growth. C, The specimen of the uterus and cervix shows enlarged uterus and dilated uterine cavity containing irregular, grey-white, friable growth arising from endometrial mucosa and invading the underlying myometrium superficially.					
+	
+712	Endometrial carcinoma. The most common histologic pattern is well-differentiated adenocarcinoma showing closely packed (back-to-back) glands with cytologic atypia.						
+713	Endometrial carcinoma. A, B, Diagrammatic representation of the common gross patterns-localised polypoid growth and diffuse growth. C, The specimen of the uterus and cervix shows enlarged uterus and dilated uterine cavity containing irregular, grey-white, friable growth arising from endometrial mucosa and invading the underlying myometrium superficially.			
+			
+714	Leiomyomas. A, Diagrammatic appearance of common locations and characteristic whorled appearance on cut section. B, Sectioned surface of the uterus shows multiple circumscribed, firm nodular masses of variable sizes-submucosal (white arrows) and intramural (black arrows) in location having characteristic whorling. C, The opened up uterine cavity shows an intrauterine gestation sac with placenta (white arrow) and a single circumscribed, enlarged, firm nodular mass in intramural location (black arrow) having grey-white whorled pattern.	
+					
+715	Leiomyoma uterus. Microscopy shows whorls of smooth muscle cells which are spindle-shaped, having abundant cytoplasm and oval nuclei.						
+716	Ectopic tubal gestation. The lumen of the fallopian tube is dilated in the middle and contains dark tan, haemorrhagic and friable gestational tissue (sac, foetus and placenta).				
+		
+717	Structure of the ovary to illustrate origin of ovarian tumours.						
+718	Diagrammatic representation of general histologic criteria to distinguish benign, borderline (atypical proliferating) and malignant surface epithelial tumours of the ovary.						
+719	Papillary serous cystadenocarcinoma of the ovary. Microscopic features include stratification of low columnar epithelium lining the inner surface of the cyst and a few psammoma bodies. The stroma shows invasion by clusters of anaplastic tumour cells.						
+720	Papillary serous cystadenocarcinoma of the ovary. It shows an enlarged ovary replaced with a large unilocular cyst with intracystic papillae (arrow).						
+721	Papillary serous cystadenocarcinoma of the ovary. It shows an enlarged ovary replaced with a large unilocular cyst with intracystic papillae (arrow).						
+722	Mucinous cystadenoma of the ovary. Cut surface shows a very large multilocular cyst without papillae. The cyst wall shows presence of loculi containing gelatinous mucoid material.				
+		
+723	Mucinous cystadenoma of the ovary. The cyst wall and the septa are lined by a single layer of tall columnar mucin-secreting epithelium with basally-placed nuclei and large apical mucinous vacuoles.			
+			
+724	Mucinous cystadenoma of the ovary. Cut surface shows a very large multilocular cyst without papillae. The cyst wall shows presence of loculi containing gelatinous mucoid material.					
+	
+725	Histogenetic classification of germ cell tumours of the ovary.						
+726	Dermoid cyst of the ovary. The ovary is enlarged and shows a large unilocular cyst containing hair, pultaceous material and bony tissue.						
+727	Dermoid cyst of the ovary. The ovary is enlarged and shows a large unilocular cyst containing hair, pultaceous material and bony tissue.						
+728	Dysgerminoma. The histologic appearance is identical to that of seminoma of the testis. Masses of large uniform tumour cells are separated by scanty fibrous stroma that is infiltrated by lymphocytes.			
+			
+729	Benign cystic teratoma. Microscopy shows characteristic lining of the cyst wall by epidermis and its appendages. Islands of mature cartilage are also seen.						
+730	Solid ovarian tumour. Specimen of the uterus, cervix and adnexa shows enlarged ovarian mass (arrow) on one side which on cut section is solid, grey-white and firm.						
+731	Endodermal sinus (yolk sac) tumour ovary. The tumour has microcystic pattern and has highly anaplastic tumour cells. Several characteristic Schiller-Duval bodies are present. Inset shows intra- and extracellular hyaline globules.						
+732	Granulosa cell tumour showing uniform granulosa cells and numerous rosette-like Call-Exner bodies containing central amorphous pink material surrounded by granulosa cells.					
+	
+733	Krukenberg tumour showing characteristic bilateral metastatic ovarian cancer (arrow) having firm white appearance.	
+					
+734	Krukenberg tumour. Histologic features include mucin-filled signet-ring cells and richly cellular proliferation of the ovarian stroma.						
+735	Uterus containing hydatidiform mole. The specimen shows numerous, variable-sized, grape-like translucent vesicles containing clear fluid. Tan areas of haemorrhage are also seen.				
+		
+736	Hydatidiform mole characterised by hydropic and avascular enlarged villi with trophoblastic proliferation in the form of masses and sheets.						
+738	A, Microanatomy of the breast and major lesions at various sites. B, Normal terminal duct-lobular unit (TDLU). C, SMA-100 immunostain for myoepithelium.						
+739	Simple fibrocystic change. A, Diagrammatic view. It shows cystic dilatation of ducts and increase in fibrous stroma. There is mild epithelial hyperplasia in terminal ducts. B, Non-proliferative fibrocystic changes-fibrosis, cyst formation, adenosis and apocrine metaplasia. C, Proliferative fibrocystic changes showing moderate epithelial hyperplasia.						
+
+740	Fibroadenoma of the breast, microscopic patterns.						
+741	Phyllodes tumour. Simple mastectomy specimen shows replacement of almost whole breast with a large circumscribed, greywhite, firm, nodular mass having slit-like, compressed cystic areas (arrow) and areas of haemorrhage.						
+742	Topographic considerations in breast cancer.						
+743	Infiltrating duct carcinoma-NOS. The breast shows a tumour extending up to nipple and areola. Cut surface shows a grey white firm tumour extending irregularly into adjacent breast parenchyma.					
+	
+744	Morphologic patterns in non-invasive (in situ) carcinoma of breast.						
+745	Infiltrating duct carcinoma-NOS. Microscopic features include formation of solid nests, cords, gland-like structures and intraductal growth pattern of anaplastic tumour cells. There is infiltration of densely collagenised stroma by these cells in a haphazard manner.						
+
+746	Invasive lobular carcinoma. Characteristic histologic features are: one cell wide files of round regular tumour cells ('Indian file'arrangement) infiltrating the stroma and arranged circumferentially around ducts in a target-like pattern.						
+747	Medullary carcinoma breast. Cut surface of the breast shows a large grey white soft fleshy tumour replacing almost whole of the breast. The tumour is somewhat delineated from the adjacent breast parenchyma (arrow) as compared to irregular margin of IDC.						
+748	Medullary carcinoma breast. Microscopy shows two characteristic features-large tumour cells forming syncytial arrangement and stroma infiltrated richly with lymphocytes.						
+749	Colloid (mucinous) carcinoma breast. The tumour cells are seen as clusters floating in pools of abundant mucin.		
+				
+750	Paget's diseases of the breast. A, The region of nipple and areola is crusted and ulcerated. B, There are clefts in the epidermal layers containing large tumour cells (arrow).					
+	
+751	Paget's diseases of the breast. A, The region of nipple and areola is crusted and ulcerated. B, There are clefts in the epidermal layers containing large tumour cells (arrow).					
+	
+752	Oestrogen and progesterone hormonal receptors (ER and PR) in breast cancer. The tumour cells show nuclear positivity with ER and PR antibody immunostains.						
+754	Main structures identified in a section of the normal skin.						
+755	Different layers comprising the normal epidermis.						
+756	Chronic dermatitis (eczema). The epidermis shows hyperkeratosis, acathosis and broadened papillae and spongiosis of the epidermal layers. The dermis shows mild perivascular chronic inflammatory cell infiltrate.						
+757	Typical appearance of a verruca. The histologic features include papillomatosis, acanthosis, hyperkeratosis with parakeratosis and elongated rete ridges appearing to point towards the centre. Foci of vacuolated cells (koilocytes) are found in the upper stratum malpighii. Inset shows koilocytes and virus-infected keratinocytes containing prominent keratohyaline granules.				
+		
+758	Molluscum contagiosum. The epidermal layers show numerous molluscum bodies which are intracytoplasmic inclusions. Inset shows close-up view of molluscum bodies.						
+759	Tinea capitis in the skin. The stratum corneum around the hair follicle shows presence of numerous arthrospores and hyphae.
+						
+760	Cutaneous sarcoidosis. The dermis shows noncaseating epithelioid granulomas having Langhans' giant cells and paucity of lymphocytes, termed as naked granulomas.						
+761	Lupus vulgaris. The dermis contains caseating epithelioid cell granulomas having giant cells and lymphocytes.		
+				
+762	Discoid lupus erythematosus (DLE). The epidermis is flat and is devoid of rete ridges. There is hyperkeratosis and follicular plugging. The basal layer shows hydropic degeneration and loss of dermoepidermal junction (arrow). The upper dermis is oedematous and shows moderate lymphocytic infiltration.	
+					
+763	Location of bullae and vesicles in non-infectious bullous dermatoses. A, Pemphigus vulgaris: The bulla is predominantly suprabasilar in position and contains acantholytic cells. B, Pemphigus vegetans: An intraepidermal abscess composed of eosinophils is seen. C, Pemphigus foliaceous: The bulla is superficial in subcorneal position and contains acantholytic cells. D, Pemphigoid: The bulla containing eosinophilis is subepidermal with regeneration of the epidermis at the periphery. E, Dermatitis herpetiformis: There is a papillary microabscess composed of neutrophils. F, Erythema Multiforme: The affected area shows necrotic keratinocytes and inflammatory cells.						
+764	Pemphigus vulgaris. An intraepidermal bulla in suprabasal location containing acantholytic cells (arrow) is seen.		
+				
+765	Bullous pemphigoid. The skin shows non-acantholytic subepidermal bulla containing microabscess of eosinophils (arrow).		
+				
+766	Erythema multiforme. There is pronounced dermoepidermal interface dermatitis. There is oedema and necrosis of kertinocytes at the junction and mild lymphocytic infiltrate.					
+	
+767	Dermatitis herpetiformis. The tips of dermal papillae show neutrophilic microabscess (arrow) causing dermo-epidermal separation at tips.						
+768	Psoriasis. There is regular elongation of the rete ridges with thickening of their lower portion. The papillae are elongated and oedematous with suprapapillary thinning of epidermis. There is marked parakeratosis with diagnostic Munro microabscesses in the parakeratotic layer.					
+	
+769	Idiopathic calcinosis cutis. The subcutaneous tissue shows masses or nodules of calcium salt surrounded by foreign body giant cells.						
+770	Lichen planus. There is hyperkeratosis, focal hypergranulosis and irregular acanthosis with elongated saw-toothed rete ridges. The basal layer shows liquefactive degeneration. The upper dermis shows a band-like mononuclear infiltrate with a sharply-demarcated lower border.			
+			
+771	Squamous cell papilloma. A, The skin surface shows a papillary growth with a pedicle while the surface is smooth. B, Microscopy resembles verruca but differs from it by not having vacuolated koilocytic cells in stratum malpighii.						
+772	Fibroepithelial polyp (acrochordon or soft fibroma). The epidermis is raised as polypoid mass over dense hyalinised fibrous connective tissue in the dermis.						
+773	Seborrheic keratosis. The border of the elevated lesion at the lateral margin is in a straight line from the normal uninvolved epidermis (arrow). The other features include papillomatosis, hyperkeratosis and acanthosis.						
+774	Epidermal inclusion cyst. The cyst wall is composed of all layers of the epidermis and has laminated layers of keratin towards the lumen of the cyst.						
+775	Bowen's disease. The epidermis is thick with loss of rete ridges but the normal base to surface maturation of epidermal layers is effaced. Instead, there are bizarre atypical squamous cells but the border between the epidermis and dermis is intact i.e. the basement membrane is not breached.			
+			
+776	Dermoid cyst. In addition to features of epidermal cyst, dermoid cyst has adnexal structures in the cyst wall (i.e. hair follicles, sweat and sebaceous glands).						
+777	Squamous cell carcinoma. A, Main macroscopic patterns showing ulcerated and fungating polypoid growth. B, The skin surface on the sole of the foot shows a fungating and ulcerated growth. On cutting, the growth is both exophytic and endophytic and is chalky white in colour.				
+		
+778	Squamous cell carcinoma. A, Main macroscopic patterns showing ulcerated and fungating polypoid growth. B, The skin surface on the sole of the foot shows a fungating and ulcerated growth. On cutting, the growth is both exophytic and endophytic and is chalky white in colour.			
+			
+779	Microscopic features of well-differentiated squamous cell carcinoma. The dermis is invaded by downward proliferating epidermal masses of cells which show atypical features. A few horn pearls with central laminated keratin are present. There is inflammatory reaction in the dermis between the masses of tumour cells.						
+780	Common location and macroscopic appearance of basal cell carcinoma (rodent ulcer).						
+781	Solid basal cell carcinoma. The dermis is invaded by irregular masses of basaloid cells with characteristic peripheral palisaded appearance. The masses of tumour cells are separated from dermal collagen by a space called shrinkage artefact.						
+782	Pilomatricoma (calcifying epithelioma of Malherbe). The tumour shows islands and lobules within the dermis which are composed of two types of cells: outer basophilic cells and inner shadow cells. Areas of calcification are also seen.						
+783	Intradermal naevus showing nests of naevus cells which are typically uniform and present in the dermis. Melanin pigment in naevus cells is coarse and irregular.						
+784	Malignant melanoma of the oral cavity. The hemimaxillectomy specimen shows an elevated blackish ulcerated area with irregular outlines.						
+785	Malignant melanoma shows junctional activity at the dermal-epidermal junction. Tumour cells resembling epithelioid cells with pleomorphic nuclei and prominent nucleoli are seen as solid masses in the dermis. Many of the tumour cells contain fine granular melanin pigment. Photomicrograph shows a prominent atypical mitotic figure (arrow).						
+786	Dermatofibrosarcoma protuberans. The tumour cells are arranged in storiform or cartwheel pattern. The tumour cells are spindled admixed with histiocytes and show moderate anisocytosis and anisonucleosis.		
+				
+787	Endocrine organs and the presence of feedback controls. Both positive and negative feedback controls exist for each endocrine gland having a regulating (R) and stimulating (S) hormone. Those acting through hypothalamic-pituitary axis include: thyroid hormones on TRHTSH axis, cortisol on CRH-ACTH axis, gonadal steroids on GnRH-LH/FSH axis and insulin-like GH on GHRH-GH axis. Those independent of pituitary control (shown by interrupted arrows) have also feedback controls by calcium on PTH, and hypoglycaemia on insulin release by pancreatic islets.			
+			
+788	Pituitary adenoma, sinusoidal pattern.	
+					
+789	Pheochromocytoma of the adrenal medulla. The specimen shows compressed kidney at the lower end (arrow) while the upper end shows a large spherical tumour separate from the kidney. Cut surface of tumour shows cystic change while solid areas show dark brown, necrotic and haemorrhagic tumour.		
+				
+790	Adrenal pheochromocytoma. The tumour has typical zellballen or nested pattern. The tumour cells are large, polyhedral and pleomorphic having abundant granular cytoplasm.						
+791	Neuroblastoma, It shows small, round to oval cells forming irregular sheets separated by fibrovascular stroma. A few HomerWright's pseudorosettes are also present. Inset shows a close-up view of pseudorosette.
+						
+792	Appearance in functional disorders of the thyroid gland.						
+793	Hashimoto's thyroiditis. Histologic features include: lymphoid cell infiltration with formation of lymphoid follicles having germinal centres; small, atrophic and colloid-deficient follicles; presence of Hurthle cells which have granular oxyphil cytoplasm and large irregular nuclei; and slight fibrous thickening of lobular septa.						
+794	Graves' disease. The follicles are small and are lined by tall columnar epithelium, which is piled up at places forming papillary infoldings. Colloid is nearly absent and appears lightly staining, watery and finely vacuolated.						
+795	Pathogenesis of simple and nodular goitre.						
+796	Simple (diffuse nontoxic or colloid) goitre. The thyroid gland is enlarged diffusely. Cut section shows lobules of translucent gelatinous light brown parenchyma and areas of haemorrhage.			
+			
+797	Simple (diffuse nontoxic or colloid) goitre. The thyroid gland is enlarged diffusely. Cut section shows lobules of translucent gelatinous light brown parenchyma and areas of haemorrhage.		
+				
+798	Simple goitre. Microscopy shows large follicles distended by colloid and lined by flattened follicular epithelium.
+						
+799	Nodular goitre. The thyroid gland is enlarged and nodular. Cut surface shows multiple nodules separated from each other by incomplete fibrous septa. Areas of haemorrhage and cystic change are also seen.
+						
+800	Nodular goitre. The predominant histologic features are: nodularity, extensive scarring with foci of calcification, areas of haemorrhages and variable-sized follicles lined by flat to high epithelium and containing abundant colloid.						
+801	Follicular adenoma thyroid. Sectioned surface of the thyroid shows a solitary nodule having capsule. The nodule is grey-white and is distinct from the adjoining thyroid parenchyma.				
+		
+802	Follicular adenoma thyroid. Sectioned surface of the thyroid shows a solitary nodule having capsule. The nodule is grey-white and is distinct from the adjoining thyroid parenchyma.				
+		
+803	Follicular adenoma, foetal (microfollicular) type. The tumour is well-encapsulated with compression of surrounding thyroid parenchyma. The tumour consists of small follicles lined by cuboidal epithelium and contain little or no colloid and separated by abundant loose stroma.			
+			
+804	Papillary carcinoma of the thyroid. Cut surface of the enlarged thyroid gland shows a single nodule separated from the rest of thyroid parenchyma by incomplete fibrous septa (arrow). The nodule is grey-white soft and shows grossly visible papillary pattern.						
+805	Papillary carcinoma of the thyroid. Cut surface of the enlarged thyroid gland shows a single nodule separated from the rest of thyroid parenchyma by incomplete fibrous septa (arrow). The nodule is grey-white soft and shows grossly visible papillary pattern.						
+806	Papillary carcinoma thyroid. Microscopy shows branching papillae having flbrovascular stalk covered by a single layer of cuboidal cells having ground-glass nuclei. Colloid-filled follicles and solid sheets of tumour cells are also present.						
+807	Follicular carcinoma, showing encapsulated tumour with invasion of a capsular vessel. The follicles lined by tumour cells are of various sizes and there is mild pleomorphism.			
+			
+808	Medullary carcinoma thyroid. Microscopy shows organoid pattern of oval tumour cells and abundant amyloid stroma. Amyloid shows congophilia which depicts apple-green birefringence under polarising microscopy.	
+					
+809	Medullary carcinoma thyroid. Microscopy shows organoid pattern of oval tumour cells and abundant amyloid stroma. Amyloid shows congophilia which depicts apple-green birefringence under polarising microscopy.	
+					
+810	Role of parathormone in regulating calcium metabolism in the body.						
+811	Major clinical manifestations of hyperparathyroidism.						
+812	A, Pathway of normal insulin synthesis and release in beta-cells of pancreatic islets. B, Chain of events in action of insulin on target cell.						
+813	Schematic mechanisms involved in pathogenesis of two main types of diabetes mellitus.					
+	
+814	Amyloidosis of the pancreatic islet tissue. The islets are mostly replaced by structureless eosinophilic material which stains positively with Congo red.						
+815	Pathophysiological basis of common signs and symptoms due to uncontrolled hyperglycaemia in diabetes mellitus.		
+				
+816	Long-term complications of diabetes mellitus. A, Pathogenesis. B, Secondary systemic complications.			
+			
+817	The glucose tolerance test, showing blood glucose curves (venous blood glucose) and glucosuria after 75 gm of oral glucose.	
+					
+819	The normal structure of cortical (compact) bone (A) and trabecular (cancellous) bone (B) in transverse section. The cortical bone forming the outer shell shows concentric lamellae along with osteocytic lacunae surrounding central blood vessels, while the trabecular bone forming the marrow space shows trabeculae with osteoclastic activity at the margins.				
+		
+820	Pathogenesis of pyogenic osteomyelitis. A, The process begins as a focus of microabscess in a vascular loop in the marrow which expands to stimulate resorption of adjacent bony trabeculae. Simultaneously, there is beginning of reactive woven bone formation by the periosteum. B, The abscess expands further causing necrosis of the cortex called sequestrum. The formation of viable new reactive bone surrounding the sequestrum is called involucrum. The extension of infection into the joint space, epiphysis and the skin produces a draining sinus.					
+	
+821	Chronic suppurative osteomyelitis. Histologic appearance shows necrotic bone and extensive purulent inflammatory exudate.			
+			
+822	Osteomyelitis of the vertebral body			
+			
+823	Tuberculous osteomyelitis. There are epithelioid cell granulomas with minute areas of caseation necrosis and surrounded by Langhans' giant cells. Pieces of necrotic bone are also seen.						
+
+824	Pathogenesis of renal osteodystrophy in chronic renal failure. Circled serial numbers in the graphic representation correspond to the sequence described in the text under pathogenesis.			
+			
+825	Fibrous dysplasia of the bone. The bony trabeculae have fish-hook appearance (or Chinese-letter appearance) surrounded by fibrous tissue. The osteoblastic rimming of the bony trabeculae are characteristically absent.	
+					
+826	Aneurysmal bone cyst, ulna. The end of the long bone is expanded due to a cyst. The inner wall of the cyst is tan and haemorrhagic.						
+827	Anatomic locations of common primary bone tumours.						
+828	Aneurysmal bone cyst. Histologic hallmark of lesion is presence of aneurysmal spaces filled with blood, partly lined by endothelium and separated by connective tissue septa containing osteoclast-like giant cells along the wall of vascular spaces.						
+829	Osteosarcoma. The lower end of the femur shows a bulky expanded tumour in the region of metaphysis sparing the epiphyseal cartilage. Sectioned surface of the tumour shows lifting of the periosteum by the tumour and eroded cortical bone. The tumour is grey-white with areas of haemorrhage and necrosis.						
+830	Osteosarcoma. Hallmarks of microscopic picture of the usual osteosarcoma are the sarcoma cells characterised by variation in size and shape of tumour cells, bizarre mitosis and multinucleate tumour giant cells, and osteogenesis i.e. production of osteoid matrix and bone directly by the tumour cells.	
+					
+831	Osteochondroma (osteocartilaginous exostosis), upper end humerus. The amputated head of the long bone shows mushroom-shaped elevated nodular areas. These nodules have cartilaginous caps and inner osseous tissue.	
+					
+832	Osteochondroma. The overlying cap shows mature cartilage cells covering the underlying mature lamellar bone containing marrow spaces.						
+833	Chondrosarcoma. Histologic features include invasion of the tumour into adjacent soft tissues and cytologic characteristics of malignancy in the tumour cells.						
+834	Chondrosarcoma, scapula. The bone is expanded externally due to a gelatinous tumour. Sectioned surface shows lobulated mass with bluish cartilaginous hue infiltrating the soft tissues.				
+		
+835	Giant cell tumour (osteoclastoma). The end of the long bone is expanded in the region of epiphysis. Sectioned surface shows circumscribed, dark tan, haemorrhagic and necrotic tumour.				
+		
+836	Osteoclastoma. Microscopy reveals osteoclast-like multinucleate giant cells which are regularly distributed among the mononuclear stromal cells.						
+837	Giant cell tumour (osteoclastoma). The end of the long bone is expanded in the region of epiphysis. Sectioned surface shows circumscribed, dark tan, haemorrhagic and necrotic tumour.				
+		
+838	Ewing's sarcoma. The tumour is largely extending into soft tissues including the skeletal muscle. Cut surface of the tumour is grey-white, cystic, soft and friable.						
+839	Ewing's sarcoma. The tumour is largely extending into soft tissues including the skeletal muscle. Cut surface of the tumour is grey-white, cystic, soft and friable.						
+840	Ewing's sarcoma. Characteristic microscopic features are irregular lobules of uniform small tumour cells with indistinct cytoplasmic outlines which are separated by fibrous tissue septa having rich vascularity. Areas of necrosis and inflammatory infiltrate are also included. Inbox in the right photomicrograph shows PAS positive tumour cells in perivascular location.		
+				
+841	Chordoma. The tumour cells are quite variable in size having characteristic bubbly cytoplasm (physaliphorous cells) and anisonucleocytosis. The background is myxoid.						
+842	Osseous deposits from carcinoma breast.	
+					
+843	Fully-developed lesions in osteoarthritis (B), contrasted with appearance of a normal joint (A).				
+		
+844	Pathogenesis of rheumatoid arthritis.	
+					
+845	Rheumatoid arthritis. The characteristic histologic features are villous hypertrophy of the synovium and marked mononuclear inflammatory cell infiltrate in synovial membrane with formation of lymphoid follicles at places.						
+846	A gouty tophus, showing central aggregates of urate crystals surrounded by inflammatory cells, fibroblasts and occasional giant cells.						
+847	Tenosynovial giant cell tumour. The tumour shows infiltrate of small oval to spindled histiocytes with numerous interspersed multinucleate giant cells lyning in a background of fibrous tissue.			
+			
+848	Cyst of ganglion. The cyst wall is composed of dense connective tissue lined internally by flattened lining. The cyst wall shows myxoid degeneration.						
+849	Neuromuscular junction in normal transmission (A) and in myasthenia gravis (B). The junction in MG shows reduced number of AChRs, flattened and simplified postsynaptic folds, a widened synaptic space but a normal nerve terminal.						
+850	Normal skeletal muscle (A) contrasted with findings in Duchenne's muscular dystrophy (B) showing hyaline fibres, fibre degeneration, loss of fibres and replacement by interstitial fibrosis and adipose tissue.	
+					
+851	Fibroma of the oral cavity. The circumscribed lesion is composed of mature collagenised fibrous connective tissue.		
+				
+852	Fibrosarcoma, common clinical location.	
+					
+853	Fibrosarcoma. Microscopy shows a well-differentiated tumour composed of spindle-shaped cells forming interlacing fascicles producing a typical Herring-bone pattern. A few mitotic figures are also seen.			
+			
+854	Malignant fibrous histiocytoma. The lobulated tumour infiltrating the skeletal muscle is somewhat circumscribed. Cut surface is grey-white fleshy with areas of haemorrhage and necrosis.		
+				
+855	Malignant fibrous histiocytoma. The tumour shows admixture of spindle-shaped pleomorphic cells forming storiform (cart-wheel) pattern and histiocyte-like round to oval cells. Bizarre pleomorphic multinucleate tumour giant cells and some mononuclear inflammatory cells are also present.	
+					
+856	Lipoma. A, Common clinical location. B, The cut surface of the tumour is soft, lobulated, yellowish and greasy.	
+					
+857	Lipoma. A, Common clinical location. B, The cut surface of the tumour is soft, lobulated, yellowish and greasy.		
+				
+858	Lipoma. The tumour shows a thin capsule and underlying lobules of mature adipose cells separated by delicate fibrous septa.	
+					
+859	Liposarcoma. The tumour shows characteristic, univacuolated and multivacuolated lipoblasts with bizarre nuclei. Inset in the right photomicrograph shows close-up view of a typical lipoblast having multivacuolated cytoplasm indenting the atypical nucleus.						
+860	Botryoid rhabdomyosarcoma, nose. The tumour shows the characteristic submucosal Cambium layer of tumour cells. The tumour cells are round to oval and have anaplasia.						
+861	Alveolar rhabdomyosarcoma. The tumour is divided into alveolar spaces composed of fibrocollagenous tissue. The fibrous trabeculae are lined by small, dark, undifferentiated tumour cells, with some cells floating in the alveolar spaces. A few multinucleate tumour giant cells are also present.			
+			
+862	Classic synovial sarcoma, showing characteristic biphasic cellular pattern. The tumour is composed of epithelial-like cells lining cleft-like spaces and gland-like structures, and spindle cell areas forming fibrosarcoma-like growth pattern.						
+864	Cells comprising the nervous system.
+						
+865	Normal circulation of CSF.	
+					
+866	Acute suppurative meningitis		
+				
+867	Cryptococci in CSF as seen in mucicarmine stain.						
+868	Tuberculous encephalitis of the brain.	
+					
+869	Neurocysticercosis. The sliced surface of the cerebral hemisphere of the brain shows may tiny whitish nodules and cysts about 1 cm in diameter.						
+870	An old cystic infarct in the brain (coronal section). There is shrinkage of scarred area with ipsilateral ventricular dilatation.						
+871	An anaemic infarct of a few days duration. The histologic changes are reactive astrocytosis, a few reactive macrophages and neovascularisation in the wall of the cystic lesion. The outer cortical layer is, however, intact.						
+872	The circle of Willis showing principal sites of berry (saccular) aneurysms. The serial numbers indicate the frequency of involvement.						
+873	Subdural haematoma often results from rupture of veins crossing the cerebral convexities and is characterised by accumulation of venous blood between the dura and the arachnoid.						
+
+874	Epidural haematoma often results from rupture of artery following skull fracture resulting in accumulation of arterial blood between the skull and the dura.						
+875	The anatomic distribution of common intracranial tumours.						
+876	Anaplastic astrocytoma, showing hypercellularity of pleomorphic astrocytic cells, mitoses and vascular proliferation in fibrillary background. Areas of necrosis are also present.						
+
+877	Glioblastoma multiforme (WHO grade IV astrocytoma). The tumour is densely cellular having marked pleomorphism. Characteristically, the tumour has areas of necrosis which are surrounded by a palisade layer of tumour cells.		
+				
+878	Ependymoma showing uniform ependymal tumour cells forming rosettes and canaliculi.						
+879	Meningioma, The tumour mass is circumscribed (arrow) with irregular surface convolutions and prominent blood vessels. It is firm in consistency with peripherally adherent thick firm dural tissue. Cut surface of the mass is firm and fibrous.						
+880	Meningioma, transitional type. The cells have features of both syncytial and fibroblastic type and form whorled appearance. Some of the whorls contain psammoma bodies.						
+881	Metastatic tumour deposits in the brain. They are commonly multiple, well-defined and usually located at the grey and white matter junction.						
+882	Pathologic reaction of peripheral nerve to injury.						
+883	Schwannoma (neurilemmoma), showing whorls of densely cellular (Antoni A) and loosely cellular (Antoni B) areas with characteristic nuclear palisading (Verocay bodies).						
+884	Plexiform neurofibromatosis. The main mass is multilobulated with increased fat while lower part of the image shows a separate encapsulated gelatinous mass. Cut surface of both the masses shows circumscribed, gelatinous, lobulated grey-white firm masses.						
+885	Neurofibroma, showing interlacing bundles of spindle-shaped cells separated by mucoid matrix. The cells have wavy nuclei and a residual nerve fibre (neurite) is also identified.						
