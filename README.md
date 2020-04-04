@@ -10,15 +10,8 @@ The paper is available [here](https://arxiv.org/abs/2003.10286)
 If you find this dataset useful, please cite:
 
     @article{he2020pathvqa,
-    title={PathVQA: 30000+ Questions for Medical Visual Question Answering},
-    author={He, Xuehai and Zhang, Yichen and Mou, Luntian and Xing, Eric and Xie, Pengtao},
-    journal={arXiv preprint arXiv:2003.10286},
-    year={2020}
-    }
-
-    @article{zhao2020COVID-CT-Dataset,
-      title={COVID-CT-Dataset: a CT scan dataset about COVID-19},
-      author={Zhao, Jinyu and Zhang, Yichen and He, Xuehai and Xie, Pengtao},
-      journal={arXiv preprint arXiv:2003.13865}, 
+      title={PathVQA: 30000+ Questions for Medical Visual Question Answering},
+      author={He, Xuehai and Zhang, Yichen and Mou, Luntian and Xing, Eric and Xie, Pengtao},
+      journal={arXiv preprint arXiv:2003.10286},
       year={2020}
     }
