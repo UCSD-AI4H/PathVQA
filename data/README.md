@@ -1,4 +1,4 @@
-We host the whole dataset for [grand challenge](https://grand-challenge.org/) here: 
+We host the whole dataset for [grand challenge](https://pathvqachallenge.grand-challenge.org/) here: 
 https://jkooy.github.io/Utils/
 
 It can also be downloaded directly from the google drive:
